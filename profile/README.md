@@ -74,28 +74,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Angara 1.2 | MKA-R**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome_Site_35">35/1</a>, Plesetsk Cosmodrome, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T195522">2022-04-28 19:55:22 UTC</a>.  Until
-then, this pad will have been used for 3
-out of 1649 launches from this location. The launch status is currently
+**Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Mobile launch platform</a>, Sea Launch*
+<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>.  Until
+then, this pad will have been used for 2
+out of 41 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  Russian military radar satellite.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Angara_(rocket_family)#Angara_1.2" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_11" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg" />
   </a>
-  <a href="https://www.google.com/maps?q=62.927319,40.574897" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_6_20200803142434.jpg"  />
+  <a href="https://www.google.com/maps/place/35%C2%B000'00.0%22N+123%C2%B000'00.0%22E/" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_3_20200803142448.jpg"  />
   </a>
 </p>
 
@@ -111,14 +111,9 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T195522">2022-04-28 19:55:22 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Angara 1.2 | MKA-R</b> from Plesetsk Cosmodrome, Russian Federation to LEO.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch.</td>
+    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch to -.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>]</td>
@@ -160,6 +155,11 @@ into *a Low Earth Orbit
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183500">2022-05-25 18:35:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -167,15 +167,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/" >🔗</a> **[SpaceNews]** Space Force sees room for more competitors in national security launch
 - <a href="http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development" >🔗</a> **[NASA]** NASA Chooses Small Businesses to Continue Exploration Tech Development
 - <a href="https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/" >🔗</a> **[NASA Spaceflight]** James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning
 - <a href="https://spaceflightnow.com/2022/04/28/russian-eva-53/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts begin 250th space station spacewalk
 - <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
-- <a href="https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/" >🔗</a> **[SpaceNews]** China’s Wenchang aims to become commercial space hub
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T191844">2022-04-28 19:18:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T202345">2022-04-28 20:23:45 UTC</a>
   <br>
 </div>
