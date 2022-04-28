@@ -5,7 +5,7 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 
 <!-- Actual text -->
 
-> You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+##### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -176,6 +176,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T161349">2022-04-28 16:13:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T161421">2022-04-28 16:14:21 UTC</a>
   <br>
 </div>
