@@ -112,7 +112,7 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
     <tbody>
 {% for launch in parse_launches_within_a_month(launches) -%}
 <tr>
-    <td class="tg-0pky">\[{{ make_html_linked_time(launch.datetime) }}\]</td>
+    <td class="tg-0pky">[{{ make_html_linked_time(launch.datetime) }}]</td>
     <td class="tg-0pky"><b>{{ launch.name }}</b> from {{ launch.pad.location.name }}.</td>
     <td class="tg-0pky">{{ status_emoji(launch.status.abbrev) }} <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code, country_reassign=True)}}"/> {{ launch.mission.name }} {% if launch.mission.orbit %}to {{ launch.mission.orbit.abbrev }} {% endif %}</td>
 </tr>
