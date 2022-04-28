@@ -41,7 +41,7 @@ This is my main side project, a spaceflight tracker for Android and iOS using da
 ## Android
 [![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/android_image.png "Header")](https://play.google.com/store/apps/details?id=me.calebjones.spacelaunchnow)
 ## iOS
-[![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.png "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
+[![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.jpg "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
 
 
 # The Space Devs
@@ -78,40 +78,26 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
   </a>
 </p>
 
-### Within a month's time 📅
-{% for launch in parse_launches_within_a_month(launches) -%}
-- \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code, country_reassign=True)}}" /> {{ status_emoji(launch.status.abbrev) }} {{ make_google_calender_href_icon(launch) }} **{{ launch.name }}** from {{ launch.pad.location.name }}.
-{% endfor %}
-
-### Launch Statuses 🟩🟨🟧
+### Upcoming!
 <p align="center">
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-0pky">Symbol</th>
-        <th class="tg-0pky">Meaning</th>
-        <th class="tg-0pky">Description</th>
+        <th class="tg-0pky">NET</th>
+        <th class="tg-0pky">Name</th>
+        <th class="tg-0pky">Mission</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="tg-0pky">🟩</td>
-        <td class="tg-0pky">Go For Launch (Go)</td>
-        <td class="tg-0pky">Current T-0 confirmed by official or reliable sources.</td>
-      </tr>
-      <tr>
-        <td class="tg-0pky">🟨</td>
-        <td class="tg-0pky">To Be Confirmed (TBC)</td>
-        <td class="tg-0pky">Awaiting official confirmation - current date is known with some certainty.</td>
-      </tr>
-      <tr>
-        <td class="tg-0pky">🟧</td>
-        <td class="tg-0pky">To Be Determined (TBD)</td>
-        <td class="tg-0pky">Current date is a placeholder or rough estimation based on unreliable or interpreted sources.</td>
-      </tr>
-    </tbody>
-    </table>
-</p>
+{% for launch in parse_launches_within_a_month(launches) -%}
+<tr>
+    <td class="tg-0pky">\[{{ make_html_linked_time(launch.datetime) }}\]</td>
+    <td class="tg-0pky"><b>{{ launch.name }}</b> from {{ launch.pad.location.name }}.</td>
+    <td class="tg-0pky">{{ status_emoji(launch.status.abbrev) }} <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code, country_reassign=True)}}"/> {{ launch.mission.name }} {% if launch.mission.orbit %}to {{ launch.mission.orbit.abbrev }} {% endif %}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table></p>
 
 ## Spaceflight News API 📰
 
