@@ -1,0 +1,119 @@
+# Hey there!
+
+##
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ItsCalebJones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCalebJones&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/ItsCalebJones/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsCalebJones&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Calebs's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ItsCalebJones/SpaceLaunchNow-Android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsCalebJones&repo=SpaceLaunchNow-Android&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/ItsCalebJones/SpaceLaunchNow-Flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsCalebJones&repo=SpaceLaunchNow-Flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+## API Showcase - Launch Library 2 🚀
+
+### Next Launch ⌛
+The next space launch, retrieved from our
+<a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
+**{{ next_launch.name }}**. It is scheduled to be launched by *{{ next_launch.launch_service_provider.name }}*
+<img width="17" src="{{get_country_flag_svg(next_launch.launch_service_provider.country_code, country_reassign=False)}}" />
+from *<a href="{{ next_launch.pad.wiki_url }}">{{ next_launch.pad.name }}</a>, {{ next_launch.pad.location.name }}*
+<img width="17" src="{{get_country_flag_svg(next_launch.pad.location.country_code, country_reassign=False)}}" />
+at {{ make_html_linked_time(next_launch.datetime) }}.  Until
+then, this pad will have been used for {{ next_launch.pad.total_launch_count }}
+out of {{ next_launch.pad.location.total_launch_count }} launches from this location. The launch status is currently
+*{{ next_launch.status.abbrev }}* {{ status_emoji(next_launch.status.abbrev) }}. The mission type is
+*{{ next_launch.mission.type }}* and the payload will be injected
+into *{{ add_a_an(next_launch.mission.orbit.name) }}
+({{ next_launch.mission.orbit.abbrev }})*.
+<br>
+<blockquote>
+  {{ next_launch.mission.description }}
+</blockquote>
+
+<p float="left" align="center">
+  <a href="{{ next_launch.rocket.configuration.wiki_url }}" >
+    <img alt="launch-image" height="200" src="{{ next_launch.image }}" />
+  </a>
+  <a href="{{ next_launch.pad.map_url }}" >
+    <img alt="pad-location" height="200" src="{{ next_launch.pad.location.map_image }}"  />
+  </a>
+</p>
+
+### Within a month's time 📅
+{% for launch in parse_launches_within_a_month(launches) -%}
+- \[{{ make_html_linked_time(launch.datetime) }}\]  <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code, country_reassign=True)}}" /> {{ status_emoji(launch.status.abbrev) }} {{ make_google_calender_href_icon(launch) }} **{{ launch.name }}** from {{ launch.pad.location.name }}.
+{% endfor %}
+
+### Launch Statuses 🟩🟨🟧
+<p align="center">
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-0pky">Symbol</th>
+        <th class="tg-0pky">Meaning</th>
+        <th class="tg-0pky">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0pky">🟩</td>
+        <td class="tg-0pky">Go For Launch (Go)</td>
+        <td class="tg-0pky">Current T-0 confirmed by official or reliable sources.</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">🟨</td>
+        <td class="tg-0pky">To Be Confirmed (TBC)</td>
+        <td class="tg-0pky">Awaiting official confirmation - current date is known with some certainty.</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">🟧</td>
+        <td class="tg-0pky">To Be Determined (TBD)</td>
+        <td class="tg-0pky">Current date is a placeholder or rough estimation based on unreliable or interpreted sources.</td>
+      </tr>
+    </tbody>
+    </table>
+</p>
+
+## API Showcase - Spaceflight News API 📰
+
+### Latest News ⌛
+{% for article in latest_news -%}
+- <a href="{{ article.url }}" >🔗</a> **[{{article.newsSite}}]** {{article.title}}
+{% endfor %}
+
+### Launch-related News 🚀
+
+{% for article in launch_news -%}
+- <a href="{{ article.url }}" >🔗</a> **[{{article.newsSite}}]** {{article.title}}
+{% endfor %}
+
+<hr>
+  <div align="center">
+  This <code>README.md</code> was last auto generated at {{ make_html_linked_time(timestamp) }}
+  <br>
+</div>
