@@ -5,11 +5,11 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 
 <!-- Actual text -->
 
-##### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+##### You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/twitter.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
@@ -176,6 +176,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T161421">2022-04-28 16:14:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T161710">2022-04-28 16:17:10 UTC</a>
   <br>
 </div>
