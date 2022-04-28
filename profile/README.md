@@ -111,11 +111,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/" >🔗</a> **[SpaceNews]** China’s Wenchang aims to become commercial space hub
+- <a href="https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/" >🔗</a> **[SpaceNews]** Inmarsat’s telemetry network for rockets ready for launch
 - <a href="https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/" >🔗</a> **[Teslarati]** SpaceX director says six Crew Dragon launches per year is a sustainable goal
 - <a href="https://spacenews.com/crew-4-arrives-at-iss/" >🔗</a> **[SpaceNews]** Crew-4 arrives at ISS
 - <a href="https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/" >🔗</a> **[Spaceflight Now]** Four astronauts arrive at space station for long-term stay
-- <a href="https://www.nasaspaceflight.com/2022/04/dragon-freedom-docks-crew-4/" >🔗</a> **[NASA Spaceflight]** Crew Dragon Freedom makes its first docking at the ISS on the Crew-4 mission
-- <a href="https://spacenews.com/dalbello-to-lead-office-of-space-commerce/" >🔗</a> **[SpaceNews]** DalBello to lead Office of Space Commerce
 
 
 ### Launch-related News 🚀
@@ -124,6 +124,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T111840">2022-04-28 11:18:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T124600">2022-04-28 12:46:00 UTC</a>
   <br>
 </div>
