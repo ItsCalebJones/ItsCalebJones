@@ -136,19 +136,14 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand to SSO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T000000">2022-05-03 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T101200">2022-05-05 10:12:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-17</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170000">2022-05-09 17:00:00 UTC</a>]</td>
@@ -156,9 +151,14 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 7  | Tianzhou-4</b> from Wenchang Satellite Launch Center, People's Republic of China to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T000000">2022-05-10 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T001000">2022-05-17 00:10:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225436">2022-05-19 22:54:36 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 
 </tbody>
@@ -176,6 +176,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T182924">2022-04-28 18:29:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T191844">2022-04-28 19:18:44 UTC</a>
   <br>
 </div>
