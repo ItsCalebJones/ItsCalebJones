@@ -126,8 +126,8 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Angara 1.2 | MKA-R</b> from Plesetsk Cosmodrome, Russian Federation to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T213300">2022-04-29 21:33:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T212700">2022-04-29 21:27:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-16</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
@@ -167,15 +167,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-starbase-raptor-2-engine-deliveries/" >🔗</a> **[Teslarati]** SpaceX rapidly shipping upgraded Raptor engines to Starbase
 - <a href="https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/" >🔗</a> **[SpaceNews]** Space Force sees room for more competitors in national security launch
 - <a href="http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development" >🔗</a> **[NASA]** NASA Chooses Small Businesses to Continue Exploration Tech Development
 - <a href="https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/" >🔗</a> **[NASA Spaceflight]** James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning
 - <a href="https://spaceflightnow.com/2022/04/28/russian-eva-53/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts begin 250th space station spacewalk
-- <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T211924">2022-04-28 21:19:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T222244">2022-04-28 22:22:44 UTC</a>
   <br>
 </div>
