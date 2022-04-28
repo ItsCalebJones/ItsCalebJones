@@ -6,9 +6,9 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ItsCalebJones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCalebJones&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCalebJones&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/ItsCalebJones/MartinHeinz">
+<a href="https://github.com/ItsCalebJones">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsCalebJones&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Calebs's GitHub Stats" />
 </a>
 
@@ -35,7 +35,20 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
-## API Showcase - Launch Library 2 🚀
+# Space Launch Now
+This is my main side project, a spaceflight tracker for Android and iOS using data from The Space Devs - Launch Library API.
+
+## Android
+[![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/android_image.png "Header")](https://play.google.com/store/apps/details?id=me.calebjones.spacelaunchnow)
+## iOS
+[![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.png "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
+
+
+# The Space Devs
+
+The Space Devs is a group of space enthusiast developers working on a range of services, united in a common goal to improve public knowledge and accessibility of spaceflight information. We aim to bring space app developers together into a thriving community by providing helpful data and tools, accessible to everyone for free.
+
+## Launch Library 2 🚀
 
 ### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
@@ -108,7 +121,7 @@ into *a Low Earth Orbit
     </table>
 </p>
 
-## API Showcase - Spaceflight News API 📰
+## Spaceflight News API 📰
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/" >🔗</a> **[SpaceNews]** China’s Wenchang aims to become commercial space hub
@@ -118,12 +131,8 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/" >🔗</a> **[Spaceflight Now]** Four astronauts arrive at space station for long-term stay
 
 
-### Launch-related News 🚀
-
-
-
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T141900">2022-04-28 14:19:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T142809">2022-04-28 14:28:09 UTC</a>
   <br>
 </div>
