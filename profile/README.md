@@ -1,9 +1,9 @@
-[![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/readme_header.png "Header")](https://spacelaunchnow.me/)
-# Hello there.
+# Hey there!
 
-My name is Caleb Jones and i'm a software engineer in test with years of experience as QA Engineer. I'm from Atlanta, Georgia and i'm currently working at Tripwire by HelpSystems. I'm a founder and partner with The Space Devs and i'm the founder and developer of Space Launch Now a popular mobile application for tracking spaceflight events!
+##
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
-## 📈 GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ItsCalebJones">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCalebJones&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -33,12 +33,11 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
 ## API Showcase - Launch Library 2 🚀
 
 ### Next Launch ⌛
-The next space launch, retrieved from The Space Devs
+The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Angara 1.2 | MKA-R**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
@@ -111,11 +110,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/" >🔗</a> **[Spaceflight Now]** Four astronauts arrive at space station for long-term stay
 - <a href="https://www.nasaspaceflight.com/2022/04/dragon-freedom-docks-crew-4/" >🔗</a> **[NASA Spaceflight]** Crew Dragon Freedom makes its first docking at the ISS on the Crew-4 mission
 - <a href="https://spacenews.com/dalbello-to-lead-office-of-space-commerce/" >🔗</a> **[SpaceNews]** DalBello to lead Office of Space Commerce
 - <a href="https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/" >🔗</a> **[Spaceflight Now]** Ingenuity helicopter flies over leftover wreckage from Mars landing last year
 - <a href="https://mars.nasa.gov/news/9177/" >🔗</a> **[NASA]** NASA's Mars Helicopter Spots Gear That Helped Perseverance Rover Land
-- <a href="https://spacenews.com/south-africas-space-journey-charts-a-course-for-the-continent/" >🔗</a> **[SpaceNews]** Op-ed | South Africa’s Space Journey Charts a Course for the Continent
 
 
 ### Launch-related News 🚀
@@ -124,6 +123,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T051238">2022-04-28 05:12:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T055309">2022-04-28 05:53:09 UTC</a>
   <br>
 </div>
