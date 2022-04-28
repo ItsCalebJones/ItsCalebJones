@@ -3,6 +3,20 @@
 
 My name is Caleb Jones and i'm a software engineer in test with years of experience as QA Engineer. I'm from Atlanta, Georgia and i'm currently working at Tripwire by HelpSystems. I'm a founder and partner with The Space Devs and i'm the founder and developer of Space Launch Now a popular mobile application for tracking spaceflight events!
 
+<!-- Actual text -->
+
+> You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/koun7erfit
+[2]: https://www.linkedin.com/in/cjonesmdm/
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/ItsCalebJones">
@@ -34,6 +48,7 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+
 
 # Projects and Contributions
 
@@ -161,6 +176,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T155714">2022-04-28 15:57:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T161349">2022-04-28 16:13:49 UTC</a>
   <br>
 </div>
