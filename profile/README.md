@@ -1,9 +1,9 @@
-# Hey there!
+[![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/readme_header.png "Header")](https://spacelaunchnow.me/)
+# Hello there.
 
-##
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+My name is Caleb Jones and i'm a software engineer in test with years of experience as QA Engineer. I'm from Atlanta, Georgia and i'm currently working at Tripwire by HelpSystems. I'm a founder and partner with The Space Devs and i'm the founder and developer of Space Launch Now a popular mobile application for tracking spaceflight events!
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/ItsCalebJones">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsCalebJones&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -19,7 +19,7 @@
 
 <a href="https://github.com/ItsCalebJones/SpaceLaunchNow-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsCalebJones&repo=SpaceLaunchNow-Flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -33,11 +33,12 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
 ## API Showcase - Launch Library 2 🚀
 
 ### Next Launch ⌛
-The next space launch, retrieved from our
+The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Angara 1.2 | MKA-R**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
@@ -123,6 +124,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T055309">2022-04-28 05:53:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T055626">2022-04-28 05:56:26 UTC</a>
   <br>
 </div>
