@@ -40,12 +40,12 @@ This is my main side project, a spaceflight tracker for Android and iOS using da
 It was first launched in 2016 as the first quality spaceflight even tracking mobile app at a time where renewed public focus was being brought in thanks to the efforts of SpaceX.
 The project is very mature now with a robust CI/CD pipeline, backend services for GCM, Twitter/Instagram bots and other various services all running on a Digital Ocean hosted kubernetes cluster.
 
+Interested in checking it out? Appstore links available [here](https://spacelaunchnow.me).
+
 ## Android
 [![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/android_image.png "Header")](https://play.google.com/store/apps/details?id=me.calebjones.spacelaunchnow)
 ## iOS
 [![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.jpg "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
-
-Interested in checking it out? Appstore links available [here](https://spacelaunchnow.me).
 
 # The Space Devs
 
@@ -158,6 +158,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T145955">2022-04-28 14:59:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T151139">2022-04-28 15:11:39 UTC</a>
   <br>
 </div>
