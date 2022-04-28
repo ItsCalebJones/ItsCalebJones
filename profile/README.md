@@ -121,6 +121,11 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T195522">2022-04-29 19:55:22 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Angara 1.2 | MKA-R</b> from Plesetsk Cosmodrome, Russian Federation to LEO.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T213300">2022-04-29 21:33:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-16</b> from Cape Canaveral, FL, USA to LEO.</td>
@@ -155,11 +160,6 @@ into *an Unknown Orbit
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183500">2022-05-25 18:35:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
-</tr>
 
 </tbody>
 </table></p>
@@ -176,6 +176,6 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T202345">2022-04-28 20:23:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T211924">2022-04-28 21:19:24 UTC</a>
   <br>
 </div>
