@@ -105,16 +105,16 @@ into *{{ add_a_an(next_launch.mission.orbit.name) }}
     <thead>
       <tr>
         <th class="tg-0pky">NET</th>
-        <th class="tg-0pky">Name</th>
-        <th class="tg-0pky">Mission</th>
+        <th class="tg-0pky">Status</th>
+        <th class="tg-0pky">Details</th>
       </tr>
     </thead>
     <tbody>
 {% for launch in parse_launches_within_a_month(launches) -%}
 <tr>
     <td class="tg-0pky">[{{ make_html_linked_time(launch.datetime) }}]</td>
-    <td class="tg-0pky"><b>{{ launch.name }}</b> from {{ launch.pad.location.name }}.</td>
-    <td class="tg-0pky">{{ status_emoji(launch.status.abbrev) }} <img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code, country_reassign=True)}}"/> {{ launch.mission.name }} {% if launch.mission.orbit %}to {{ launch.mission.orbit.abbrev }} {% endif %}</td>
+    <td class="tg-0pky">{{ status_emoji(next_launch.status.abbrev) }} <b>{{ next_launch.status.name }}</b></td>
+    <td class="tg-0pky"><img width="17" src="{{get_country_flag_svg(launch.pad.location.country_code, country_reassign=True)}}"/> <b>{{ launch.name }}</b> from {{ launch.pad.location.name }}{% if launch.mission.orbit %} to {{ launch.mission.orbit.abbrev }}.{% else %}.{% endif %}</td>
 </tr>
 {% endfor %}
 </tbody>
