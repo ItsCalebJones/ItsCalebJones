@@ -111,11 +111,11 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/" >🔗</a> **[Teslarati]** SpaceX director says six Crew Dragon launches per year is a sustainable goal
+- <a href="https://spacenews.com/crew-4-arrives-at-iss/" >🔗</a> **[SpaceNews]** Crew-4 arrives at ISS
 - <a href="https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/" >🔗</a> **[Spaceflight Now]** Four astronauts arrive at space station for long-term stay
 - <a href="https://www.nasaspaceflight.com/2022/04/dragon-freedom-docks-crew-4/" >🔗</a> **[NASA Spaceflight]** Crew Dragon Freedom makes its first docking at the ISS on the Crew-4 mission
 - <a href="https://spacenews.com/dalbello-to-lead-office-of-space-commerce/" >🔗</a> **[SpaceNews]** DalBello to lead Office of Space Commerce
-- <a href="https://spaceflightnow.com/2022/04/27/ingenuity-helicopter-flies-over-leftover-wreckage-from-mars-landing-last-year/" >🔗</a> **[Spaceflight Now]** Ingenuity helicopter flies over leftover wreckage from Mars landing last year
-- <a href="https://mars.nasa.gov/news/9177/" >🔗</a> **[NASA]** NASA's Mars Helicopter Spots Gear That Helped Perseverance Rover Land
 
 
 ### Launch-related News 🚀
@@ -124,6 +124,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T102520">2022-04-28 10:25:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T111840">2022-04-28 11:18:40 UTC</a>
   <br>
 </div>
