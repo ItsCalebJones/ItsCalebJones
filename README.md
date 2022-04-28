@@ -167,15 +167,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development" >🔗</a> **[NASA]** NASA Chooses Small Businesses to Continue Exploration Tech Development
+- <a href="https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/" >🔗</a> **[NASA Spaceflight]** James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning
 - <a href="https://spaceflightnow.com/2022/04/28/russian-eva-53/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts begin 250th space station spacewalk
 - <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
 - <a href="https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/" >🔗</a> **[SpaceNews]** China’s Wenchang aims to become commercial space hub
-- <a href="https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/" >🔗</a> **[SpaceNews]** Inmarsat’s telemetry network for rockets ready for launch
-- <a href="https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/" >🔗</a> **[Teslarati]** SpaceX director says six Crew Dragon launches per year is a sustainable goal
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T172408">2022-04-28 17:24:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T182924">2022-04-28 18:29:24 UTC</a>
   <br>
 </div>
