@@ -111,52 +111,52 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T195522">2022-04-28 19:55:22 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T195522">2022-04-28 19:55:22 UTC</a>]</td>
     <td class="tg-0pky"><b>Angara 1.2 | MKA-R</b> from Plesetsk Cosmodrome, Russian Federation.</td>
     <td class="tg-0pky">🟩  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> MKA-R to LEO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch.</td>
     <td class="tg-0pky">🟩  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/>  </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Long March 2C | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
     <td class="tg-0pky">🟩  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/>  </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T213300">2022-04-29 21:33:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T213300">2022-04-29 21:33:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-16</b> from Cape Canaveral, FL, USA.</td>
     <td class="tg-0pky">🟨  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-16 to LEO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223500">2022-04-29 22:35:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223500">2022-04-29 22:35:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Electron | There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand.</td>
     <td class="tg-0pky">🟩  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> There and Back Again to SSO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T000000">2022-05-03 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T000000">2022-05-03 00:00:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand.</td>
     <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> CAPSTONE to LO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-17</b> from Kennedy Space Center, FL, USA.</td>
     <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-17 to LEO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA.</td>
     <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-15 to LEO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170000">2022-05-09 17:00:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170000">2022-05-09 17:00:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Long March 7  | Tianzhou-4</b> from Wenchang Satellite Launch Center, People's Republic of China.</td>
     <td class="tg-0pky">🟨  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> Tianzhou-4 to LEO </td>
 </tr>
 <tr>
-    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T000000">2022-05-10 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T000000">2022-05-10 00:00:00 UTC</a>]</td>
     <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA.</td>
     <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-13 to LEO </td>
 </tr>
@@ -176,6 +176,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T162120">2022-04-28 16:21:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T162335">2022-04-28 16:23:35 UTC</a>
   <br>
 </div>
