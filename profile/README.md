@@ -41,7 +41,7 @@ This is my main side project, a spaceflight tracker for Android and iOS using da
 ## Android
 [![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/android_image.png "Header")](https://play.google.com/store/apps/details?id=me.calebjones.spacelaunchnow)
 ## iOS
-[![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.png "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
+[![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.jpg "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
 
 
 # The Space Devs
@@ -78,48 +78,70 @@ into *a Low Earth Orbit
   </a>
 </p>
 
-### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T195522">2022-04-28 19:55:22 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | MKA-R&location=Plesetsk Cosmodrome, Russian Federation&dates=20220428T195522Z%2F20220428T195522Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | MKA-R** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>\]  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 11 | Jilin-1 HR-03D-04 to 09 &amp; 04A&location=Sea Launch&dates=20220429T031900Z%2F20220429T043400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A** from Sea Launch.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan, People&#x27;s Republic of China&dates=20220429T040300Z%2F20220429T043400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T213300">2022-04-29 21:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-16&location=Cape Canaveral, FL, USA&dates=20220429T213300Z%2F20220429T213300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-16** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223500">2022-04-29 22:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | There and Back Again&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220429T223500Z%2F20220430T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | There and Back Again** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T000000">2022-05-03 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | CAPSTONE&location=Onenui Station, Mahia Peninsula, New Zealand&dates=20220503T000000Z%2F20220503T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | CAPSTONE** from Onenui Station, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-17&location=Kennedy Space Center, FL, USA&dates=20220508T000000Z%2F20220508T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-17** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-15&location=Cape Canaveral, FL, USA&dates=20220508T000000Z%2F20220508T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-15** from Cape Canaveral, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170000">2022-05-09 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7  | Tianzhou-4&location=Wenchang Satellite Launch Center, People&#x27;s Republic of China&dates=20220509T170000Z%2F20220509T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7  | Tianzhou-4** from Wenchang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T000000">2022-05-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 4-13&location=Vandenberg SFB, CA, USA&dates=20220510T000000Z%2F20220510T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 4-13** from Vandenberg SFB, CA, USA.
-
-
-### Launch Statuses 🟩🟨🟧
+### Upcoming!
 <p align="center">
     <table class="tg">
     <thead>
       <tr>
-        <th class="tg-0pky">Symbol</th>
-        <th class="tg-0pky">Meaning</th>
-        <th class="tg-0pky">Description</th>
+        <th class="tg-0pky">NET</th>
+        <th class="tg-0pky">Name</th>
+        <th class="tg-0pky">Mission</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td class="tg-0pky">🟩</td>
-        <td class="tg-0pky">Go For Launch (Go)</td>
-        <td class="tg-0pky">Current T-0 confirmed by official or reliable sources.</td>
-      </tr>
-      <tr>
-        <td class="tg-0pky">🟨</td>
-        <td class="tg-0pky">To Be Confirmed (TBC)</td>
-        <td class="tg-0pky">Awaiting official confirmation - current date is known with some certainty.</td>
-      </tr>
-      <tr>
-        <td class="tg-0pky">🟧</td>
-        <td class="tg-0pky">To Be Determined (TBD)</td>
-        <td class="tg-0pky">Current date is a placeholder or rough estimation based on unreliable or interpreted sources.</td>
-      </tr>
-    </tbody>
-    </table>
-</p>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T195522">2022-04-28 19:55:22 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Angara 1.2 | MKA-R</b> from Plesetsk Cosmodrome, Russian Federation.</td>
+    <td class="tg-0pky">🟩  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> MKA-R to LEO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch.</td>
+    <td class="tg-0pky">🟩  <img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/>  </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Long March 2C | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
+    <td class="tg-0pky">🟩  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/>  </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T213300">2022-04-29 21:33:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-16</b> from Cape Canaveral, FL, USA.</td>
+    <td class="tg-0pky">🟨  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-16 to LEO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223500">2022-04-29 22:35:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Electron | There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand.</td>
+    <td class="tg-0pky">🟩  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> There and Back Again to SSO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T000000">2022-05-03 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand.</td>
+    <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> CAPSTONE to LO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-17</b> from Kennedy Space Center, FL, USA.</td>
+    <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-17 to LEO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T000000">2022-05-08 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA.</td>
+    <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-15 to LEO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T170000">2022-05-09 17:00:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Long March 7  | Tianzhou-4</b> from Wenchang Satellite Launch Center, People's Republic of China.</td>
+    <td class="tg-0pky">🟨  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> Tianzhou-4 to LEO </td>
+</tr>
+<tr>
+    <td class="tg-0pky">\[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T000000">2022-05-10 00:00:00 UTC</a>\]</td>
+    <td class="tg-0pky"><b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA.</td>
+    <td class="tg-0pky">🟧  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> Starlink Group 4-13 to LEO </td>
+</tr>
+
+</tbody>
+</table></p>
 
 ## Spaceflight News API 📰
 
@@ -133,6 +155,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T142809">2022-04-28 14:28:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T145329">2022-04-28 14:53:29 UTC</a>
   <br>
 </div>
