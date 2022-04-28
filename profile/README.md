@@ -35,25 +35,28 @@ My name is Caleb Jones and i'm a software engineer in test with years of experie
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
-# Space Launch Now
+# Projects and Contributions
+
+## Space Launch Now
 This is my main side project, a spaceflight tracker for Android and iOS using data from The Space Devs - Launch Library API.
 It was first launched in 2016 as the first quality spaceflight even tracking mobile app at a time where renewed public focus was being brought in thanks to the efforts of SpaceX.
 The project is very mature now with a robust CI/CD pipeline, backend services for GCM, Twitter/Instagram bots and other various services all running on a Digital Ocean hosted kubernetes cluster.
 
-Interested in checking it out? Appstore links available [here](https://spacelaunchnow.me).
+Interested in checking it out? App store links available [here](https://spacelaunchnow.me)!
 
-## Android
-[![Header](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/android_image.png "Header")](https://play.google.com/store/apps/details?id=me.calebjones.spacelaunchnow)
-## iOS
+### Available on iOS, Android and the Web
+[![Android](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/android_image.png "Header")](https://play.google.com/store/apps/details?id=me.calebjones.spacelaunchnow)
 [![iOS](https://raw.githubusercontent.com/ItsCalebJones/ItsCalebJones/main/ios_image.jpg "Header")](https://apps.apple.com/us/app/space-launch-now/id1399715731?platform=iphone)
 
-# The Space Devs
+<hr>
+
+## The Space Devs
 
 The Space Devs is a group of space enthusiast developers working on a range of services, united in a common goal to improve public knowledge and accessibility of spaceflight information. We aim to bring space app developers together into a thriving community by providing helpful data and tools, accessible to everyone for free.
 
-## Launch Library 2 🚀
+### Launch Library 2 🚀
 
-### Next Launch ⌛
+#### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Angara 1.2 | MKA-R**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
@@ -81,7 +84,7 @@ into *a Low Earth Orbit
   </a>
 </p>
 
-### Upcoming!
+#### Upcoming!
 <p align="center">
     <table class="tg">
     <thead>
@@ -146,18 +149,18 @@ into *a Low Earth Orbit
 </tbody>
 </table></p>
 
-## Spaceflight News API 📰
+### Spaceflight News API 📰
 
-### Latest News ⌛
+#### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/04/28/russian-eva-53/" >🔗</a> **[Spaceflight Now]** Russian cosmonauts begin spacewalk dedicated to European Robotic Arm work
+- <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
 - <a href="https://spacenews.com/chinas-wenchang-aims-to-become-commercial-space-hub/" >🔗</a> **[SpaceNews]** China’s Wenchang aims to become commercial space hub
 - <a href="https://spacenews.com/inmarsats-telemetry-network-for-rockets-ready-for-launch/" >🔗</a> **[SpaceNews]** Inmarsat’s telemetry network for rockets ready for launch
 - <a href="https://www.teslarati.com/spacex-crew-dragon-launch-cadence-goals/" >🔗</a> **[Teslarati]** SpaceX director says six Crew Dragon launches per year is a sustainable goal
-- <a href="https://spacenews.com/crew-4-arrives-at-iss/" >🔗</a> **[SpaceNews]** Crew-4 arrives at ISS
-- <a href="https://spaceflightnow.com/2022/04/28/four-astronauts-arrive-at-space-station-for-long-term-stay/" >🔗</a> **[Spaceflight Now]** Four astronauts arrive at space station for long-term stay
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T152600">2022-04-28 15:26:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T155714">2022-04-28 15:57:14 UTC</a>
   <br>
 </div>
