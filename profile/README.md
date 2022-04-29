@@ -131,6 +131,11 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T023000">2022-05-05 02:30:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Taiyuan, People's Republic of China.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T101200">2022-05-05 10:12:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-17</b> from Kennedy Space Center, FL, USA to LEO.</td>
@@ -155,11 +160,6 @@ into *a Low Earth Orbit
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T183500">2022-05-25 18:35:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
-</tr>
 
 </tbody>
 </table></p>
@@ -167,15 +167,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launch to break SpaceX turnaround records
 - <a href="https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/" >🔗</a> **[SpaceNews]** Arabsat orders first fully software-defined satellite
 - <a href="http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program" >🔗</a> **[NASA]** NASA Invites Comment on Initial Plans for Mars Sample Return Program
 - <a href="https://arstechnica.com/science/2022/04/spacex-makes-progress-on-cadence-and-reuse-as-it-passes-150-launches/" >🔗</a> **[Arstechnica]** After flying 150th Falcon 9, SpaceX continues to make efficiency gains
 - <a href="https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/" >🔗</a> **[SpaceNews]** First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24
-- <a href="https://arstechnica.com/science/2022/04/rocket-report-faa-decision-day-or-another-delay-using-a-balloon-first-stage/" >🔗</a> **[Arstechnica]** Rocket Report: FAA decision day, or another delay? Using a balloon first stage
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T172529">2022-04-29 17:25:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T182909">2022-04-29 18:29:09 UTC</a>
   <br>
 </div>
