@@ -167,15 +167,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-pair-of-commercial-remote-sensing-satellites-sea-launch-scrubbed/" >🔗</a> **[SpaceNews]** China launches pair of commercial remote sensing satellites, sea launch scrubbed
 - <a href="https://www.teslarati.com/spacex-starbase-raptor-2-engine-deliveries/" >🔗</a> **[Teslarati]** SpaceX rapidly shipping upgraded Raptor engines to Starbase
 - <a href="https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/" >🔗</a> **[SpaceNews]** Space Force sees room for more competitors in national security launch
 - <a href="http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development" >🔗</a> **[NASA]** NASA Chooses Small Businesses to Continue Exploration Tech Development
 - <a href="https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/" >🔗</a> **[NASA Spaceflight]** James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning
-- <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T092331">2022-04-29 09:23:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T102410">2022-04-29 10:24:10 UTC</a>
   <br>
 </div>
