@@ -74,13 +74,13 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Mobile launch platform</a>, Sea Launch*
-<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>.  Until
-then, this pad will have been used for 2
-out of 41 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>.  Until
+then, this pad will have been used for 80
+out of 161 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown Orbit
@@ -91,11 +91,11 @@ into *an Unknown Orbit
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_11" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/place/35%C2%B000'00.0%22N+123%C2%B000'00.0%22E/" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_3_20200803142448.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
@@ -111,14 +111,9 @@ into *an Unknown Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T031900">2022-04-29 03:19:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch to -.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T040300">2022-04-29 04:03:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C | Unknown Payload</b> from Jiuquan, People's Republic of China to -.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T195522">2022-04-29 19:55:22 UTC</a>]</td>
@@ -134,6 +129,11 @@ into *an Unknown Orbit
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T223500">2022-04-29 22:35:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand to SSO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T031900">2022-04-30 03:19:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T101200">2022-05-05 10:12:00 UTC</a>]</td>
@@ -176,6 +176,6 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T020539">2022-04-29 02:05:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T035313">2022-04-29 03:53:13 UTC</a>
   <br>
 </div>
