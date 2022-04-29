@@ -171,11 +171,11 @@ into *an Unknown Orbit
 - <a href="https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/" >🔗</a> **[SpaceNews]** Space Force sees room for more competitors in national security launch
 - <a href="http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development" >🔗</a> **[NASA]** NASA Chooses Small Businesses to Continue Exploration Tech Development
 - <a href="https://www.nasaspaceflight.com/2022/04/jwst-update-april-2022/" >🔗</a> **[NASA Spaceflight]** James Webb telescope completes optical alignment, ready for final instrument calibration phase of commissioning
-- <a href="https://spaceflightnow.com/2022/04/28/russian-eva-53/" >🔗</a> **[Spaceflight Now]** Watch live: Russian cosmonauts begin 250th space station spacewalk
+- <a href="https://spacenews.com/northrop-grumman-expects-a-2-billion-order-from-ula-for-solid-rocket-boosters/" >🔗</a> **[SpaceNews]** Northrop Grumman expects a $2 billion order from ULA for solid rocket boosters
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220428T232253">2022-04-28 23:22:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T020539">2022-04-29 02:05:39 UTC</a>
   <br>
 </div>
