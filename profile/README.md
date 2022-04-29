@@ -167,15 +167,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/" >🔗</a> **[SpaceNews]** First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24
 - <a href="https://arstechnica.com/science/2022/04/rocket-report-faa-decision-day-or-another-delay-using-a-balloon-first-stage/" >🔗</a> **[Arstechnica]** Rocket Report: FAA decision day, or another delay? Using a balloon first stage
 - <a href="https://spacenews.com/china-launches-pair-of-commercial-remote-sensing-satellites-sea-launch-scrubbed/" >🔗</a> **[SpaceNews]** China launches pair of commercial remote sensing satellites, sea launch scrubbed
 - <a href="https://www.teslarati.com/spacex-starbase-raptor-2-engine-deliveries/" >🔗</a> **[Teslarati]** SpaceX rapidly shipping upgraded Raptor engines to Starbase
 - <a href="https://spacenews.com/space-force-sees-room-for-more-competitors-in-national-security-launch/" >🔗</a> **[SpaceNews]** Space Force sees room for more competitors in national security launch
-- <a href="http://www.nasa.gov/press-release/nasa-chooses-small-businesses-to-continue-exploration-tech-development" >🔗</a> **[NASA]** NASA Chooses Small Businesses to Continue Exploration Tech Development
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T111912">2022-04-29 11:19:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T124551">2022-04-29 12:45:51 UTC</a>
   <br>
 </div>
