@@ -162,15 +162,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/first-dream-chaser-vehicle-takes-shape/" >🔗</a> **[SpaceNews]** First Dream Chaser vehicle takes shape
 - <a href="https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/" >🔗</a> **[Teslarati]** SpaceX smashes Falcon 9 booster turnaround record
 - <a href="https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/" >🔗</a> **[Spaceflight Now]** Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt
-- <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launch to break SpaceX turnaround records
+- <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launches, breaks SpaceX turnaround records
 - <a href="https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/" >🔗</a> **[SpaceNews]** Arabsat orders first fully software-defined satellite
-- <a href="http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program" >🔗</a> **[NASA]** NASA Invites Comment on Initial Plans for Mars Sample Return Program
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T222311">2022-04-29 22:23:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T232227">2022-04-29 23:22:27 UTC</a>
   <br>
 </div>
