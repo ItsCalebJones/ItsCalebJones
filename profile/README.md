@@ -167,15 +167,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-invites-comment-on-initial-plans-for-mars-sample-return-program" >🔗</a> **[NASA]** NASA Invites Comment on Initial Plans for Mars Sample Return Program
 - <a href="https://arstechnica.com/science/2022/04/spacex-makes-progress-on-cadence-and-reuse-as-it-passes-150-launches/" >🔗</a> **[Arstechnica]** After flying 150th Falcon 9, SpaceX continues to make efficiency gains
 - <a href="https://spacenews.com/first-ariane-5-of-2022-slated-for-june-launch-of-measat-3d-and-gsat-24/" >🔗</a> **[SpaceNews]** First Ariane 5 of 2022 slated for June launch of Measat-3d and GSAT-24
 - <a href="https://arstechnica.com/science/2022/04/rocket-report-faa-decision-day-or-another-delay-using-a-balloon-first-stage/" >🔗</a> **[Arstechnica]** Rocket Report: FAA decision day, or another delay? Using a balloon first stage
 - <a href="https://spacenews.com/china-launches-pair-of-commercial-remote-sensing-satellites-sea-launch-scrubbed/" >🔗</a> **[SpaceNews]** China launches pair of commercial remote sensing satellites, sea launch scrubbed
-- <a href="https://www.teslarati.com/spacex-starbase-raptor-2-engine-deliveries/" >🔗</a> **[Teslarati]** SpaceX rapidly shipping upgraded Raptor engines to Starbase
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T142029">2022-04-29 14:20:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220429T152453">2022-04-29 15:24:53 UTC</a>
   <br>
 </div>
