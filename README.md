@@ -166,15 +166,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/" >🔗</a> **[SpaceNews]** Emirati astronaut to fly long-duration space station mission
 - <a href="https://spacenews.com/first-dream-chaser-vehicle-takes-shape/" >🔗</a> **[SpaceNews]** First Dream Chaser vehicle takes shape
 - <a href="https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/" >🔗</a> **[Teslarati]** SpaceX smashes Falcon 9 booster turnaround record
 - <a href="https://spaceflightnow.com/2022/04/29/rocket-lab-waiting-for-ideal-weather-before-launch-and-recovery-attempt/" >🔗</a> **[Spaceflight Now]** Rocket Lab waiting for ‘ideal’ weather before launch and recovery attempt
 - <a href="https://www.nasaspaceflight.com/2022/04/starlink-4-16-turnaround-records/" >🔗</a> **[NASA Spaceflight]** Starlink Group 4-16 launches, breaks SpaceX turnaround records
-- <a href="https://spacenews.com/arabsat-orders-first-fully-software-defined-satellite/" >🔗</a> **[SpaceNews]** Arabsat orders first fully software-defined satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T163053">2022-04-30 16:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T172238">2022-04-30 17:22:38 UTC</a>
   <br>
 </div>
