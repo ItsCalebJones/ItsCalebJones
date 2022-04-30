@@ -74,28 +74,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Mobile launch platform</a>, Sea Launch*
-<img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T031900">2022-04-30 03:19:00 UTC</a>.  Until
-then, this pad will have been used for 2
-out of 41 launches from this location. The launch status is currently
+**Electron | There and Back Again**. It is scheduled to be launched by *Rocket Lab Ltd*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T223500">2022-05-01 22:35:00 UTC</a>.  Until
+then, this pad will have been used for 24
+out of 25 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Dedicated Rideshare* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  Commercial rideshare mission including payloads for Alba Orbital, Astrix Astronautics, Aurora Propulsion Technologies, E-Space, Spaceflight Inc, Swarm Technologies and UNSEENLABS.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_11" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220420085230.jpg" />
   </a>
-  <a href="https://www.google.com/maps/place/35%C2%B000'00.0%22N+123%C2%B000'00.0%22E/" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_3_20200803142448.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
@@ -110,11 +110,6 @@ into *an Unknown Orbit
       </tr>
     </thead>
     <tbody>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T031900">2022-04-30 03:19:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>Long March 11 | Jilin-1 HR-03D-04 to 09 & 04A</b> from Sea Launch to -.</td>
-</tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220501T223500">2022-05-01 22:35:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
@@ -171,6 +166,6 @@ into *an Unknown Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T020334">2022-04-30 02:03:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220430T034354">2022-04-30 03:43:54 UTC</a>
   <br>
 </div>
