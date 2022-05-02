@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | There and Back Again**. It is scheduled to be launched by *Rocket Lab Ltd*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Onenui Station, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T223500">2022-05-02 22:35:00 UTC</a>.  Until
-then, this pad will have been used for 24
-out of 25 launches from this location. The launch status is currently
+**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="">Launch Complex 9</a>, Taiyuan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T023000">2022-05-05 02:30:00 UTC</a>.  Until
+then, this pad will have been used for 33
+out of 107 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  Commercial rideshare mission including payloads for Alba Orbital, Astrix Astronautics, Aurora Propulsion Technologies, E-Space, Spaceflight Inc, Swarm Technologies and UNSEENLABS.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220420085230.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
+  <a href="http://maps.google.com/maps?q=38.849+N,+111.608+E" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
   </a>
 </p>
 
@@ -120,14 +120,9 @@ into *a Sun-Synchronous Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T223500">2022-05-02 22:35:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | There and Back Again</b> from Onenui Station, Mahia Peninsula, New Zealand to SSO.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T023000">2022-05-05 02:30:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Taiyuan, People's Republic of China.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Taiyuan, People's Republic of China to -.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T094700">2022-05-06 09:47:00 UTC</a>]</td>
@@ -169,6 +164,11 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-18</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>PSLV  | RISAT-2A</b> from Sriharikota, Republic of India to LEO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -176,15 +176,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/" >🔗</a> **[SpaceNews]** ‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat
 - <a href="https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/" >🔗</a> **[Teslarati]** SpaceX still on track to launch one Falcon rocket per week in 2022
 - <a href="https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/" >🔗</a> **[SpaceNews]** Calvelli to assume duties as U.S. Air Force’s space acquisition executive
 - <a href="https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/" >🔗</a> **[NASA Spaceflight]** Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission
 - <a href="https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/" >🔗</a> **[Arstechnica]** SpaceX engineer says NASA should plan for Starship’s “significant” capability
-- <a href="https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/" >🔗</a> **[SpaceNews]** Vyoma agrees data management partnership for SSA constellation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T222334">2022-05-02 22:23:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T232337">2022-05-02 23:23:37 UTC</a>
   <br>
 </div>
