@@ -176,15 +176,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/kelly-plays-down-russian-asat-threat/" >🔗</a> **[SpaceNews]** Kelly plays down Russian ASAT threat
 - <a href="https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/" >🔗</a> **[SpaceNews]** U.S. to ramp up spending on classified communications satellites
 - <a href="https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/" >🔗</a> **[SpaceNews]** Falcon 9 busier than ever as Starship reviews delayed again
 - <a href="https://spacenews.com/emirati-astronaut-to-fly-long-duration-space-station-mission/" >🔗</a> **[SpaceNews]** Emirati astronaut to fly long-duration space station mission
 - <a href="https://spacenews.com/first-dream-chaser-vehicle-takes-shape/" >🔗</a> **[SpaceNews]** First Dream Chaser vehicle takes shape
-- <a href="https://www.teslarati.com/spacex-falcon-9-new-booster-turnaround-record-21-days/" >🔗</a> **[Teslarati]** SpaceX smashes Falcon 9 booster turnaround record
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T102707">2022-05-02 10:27:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T111934">2022-05-02 11:19:34 UTC</a>
   <br>
 </div>
