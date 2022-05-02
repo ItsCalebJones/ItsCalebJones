@@ -176,15 +176,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/" >🔗</a> **[Arstechnica]** SpaceX engineer says NASA should plan for Starship’s “significant” capability
 - <a href="https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/" >🔗</a> **[SpaceNews]** Vyoma agrees data management partnership for SSA constellation
 - <a href="https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/" >🔗</a> **[Arstechnica]** The Western space community should put Dmitry Rogozin on “ignore”
 - <a href="https://spacenews.com/kelly-plays-down-russian-asat-threat/" >🔗</a> **[SpaceNews]** Kelly plays down Russian ASAT threat
 - <a href="https://spacenews.com/u-s-to-ramp-up-spending-on-classified-communications-satellites/" >🔗</a> **[SpaceNews]** U.S. to ramp up spending on classified communications satellites
-- <a href="https://spacenews.com/falcon-9-busier-than-ever-as-starship-reviews-delayed-again/" >🔗</a> **[SpaceNews]** Falcon 9 busier than ever as Starship reviews delayed again
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T182719">2022-05-02 18:27:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T191834">2022-05-02 19:18:34 UTC</a>
   <br>
 </div>
