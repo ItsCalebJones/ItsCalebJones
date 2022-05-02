@@ -160,14 +160,14 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T000000">2022-05-27 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-18</b> from Cape Canaveral, FL, USA to LEO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>PSLV  | RISAT-2A</b> from Sriharikota, Republic of India to LEO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-18</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 
 </tbody>
@@ -176,15 +176,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-weekly-falcon-launch-cadence-2022/" >🔗</a> **[Teslarati]** SpaceX still on track to launch one Falcon rocket per week in 2022
 - <a href="https://spacenews.com/calvelli-to-assume-duties-as-u-s-air-forces-space-acquisition-executive/" >🔗</a> **[SpaceNews]** Calvelli to assume duties as U.S. Air Force’s space acquisition executive
 - <a href="https://www.nasaspaceflight.com/2022/05/rocket-lab-booster-catch-attempt/" >🔗</a> **[NASA Spaceflight]** Rocket Lab Set For First Booster Catch Attempt During There And Back Again Mission
 - <a href="https://arstechnica.com/science/2022/05/spacex-engineer-says-nasa-should-plan-for-starships-significant-capability/" >🔗</a> **[Arstechnica]** SpaceX engineer says NASA should plan for Starship’s “significant” capability
 - <a href="https://spacenews.com/vyoma-agrees-data-management-partnership-for-ssa-constellation/" >🔗</a> **[SpaceNews]** Vyoma agrees data management partnership for SSA constellation
-- <a href="https://arstechnica.com/science/2022/05/the-western-space-community-should-put-dmitry-rogozin-on-ignore/" >🔗</a> **[Arstechnica]** The Western space community should put Dmitry Rogozin on “ignore”
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T211657">2022-05-02 21:16:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220502T222334">2022-05-02 22:23:34 UTC</a>
   <br>
 </div>
