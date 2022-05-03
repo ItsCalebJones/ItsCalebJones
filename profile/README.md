@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Announces Winners of 2022 Human Exploration Rover Challenge
 - <a href="https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/" >🔗</a> **[SpaceNews]** South Korea’s Innospace schedules December test launch carrying Brazilian military payload
 - <a href="https://mars.nasa.gov/news/9179/" >🔗</a> **[NASA]** NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team
 - <a href="https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/" >🔗</a> **[Arstechnica]** NASA chief says cost-plus contracts are a “plague” on the space agency
 - <a href="https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/" >🔗</a> **[Arstechnica]** Rocket Lab catches a 1-ton booster falling back from space
-- <a href="https://spacenews.com/capstone-up-next-for-rocket-lab/" >🔗</a> **[SpaceNews]** CAPSTONE up next for Rocket Lab
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T173215">2022-05-03 17:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T182755">2022-05-03 18:27:55 UTC</a>
   <br>
 </div>
