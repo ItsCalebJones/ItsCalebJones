@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9179/" >🔗</a> **[NASA]** NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team
+- <a href="https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/" >🔗</a> **[Arstechnica]** NASA chief says cost-plus contracts are a “plague” on the space agency
 - <a href="https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/" >🔗</a> **[Arstechnica]** Rocket Lab catches a 1-ton booster falling back from space
 - <a href="https://spacenews.com/capstone-up-next-for-rocket-lab/" >🔗</a> **[SpaceNews]** CAPSTONE up next for Rocket Lab
 - <a href="https://www.teslarati.com/rocket-lab-helicopter-catches-rocket-booster-first-try/" >🔗</a> **[Teslarati]** Rocket Lab catches Electron booster with a helicopter on first attempt
-- <a href="https://spacenews.com/space-force-selects-125-industry-proposals-for-on-orbit-servicing-technologies/" >🔗</a> **[SpaceNews]** Space Force selects 125 industry proposals for on-orbit servicing technologies
-- <a href="https://spacenews.com/mounting-evidence-shows-need-for-starlink-gen-2-environmental-review-says-viasat/" >🔗</a> **[SpaceNews]** ‘Mounting evidence’ shows need for Starlink Gen 2 environmental review, says Viasat
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T152508">2022-05-03 15:25:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T163758">2022-05-03 16:37:58 UTC</a>
   <br>
 </div>
