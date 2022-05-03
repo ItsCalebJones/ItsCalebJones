@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab briefly catches booster in mid-air after successful launch
 - <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Announces Winners of 2022 Human Exploration Rover Challenge
 - <a href="https://spacenews.com/south-koreas-innospace-schedules-december-test-launch-carrying-brazilian-military-payload/" >🔗</a> **[SpaceNews]** South Korea’s Innospace schedules December test launch carrying Brazilian military payload
 - <a href="https://mars.nasa.gov/news/9179/" >🔗</a> **[NASA]** NASA's Mars Helicopter Scouts Ridgeline for Perseverance Science Team
 - <a href="https://arstechnica.com/science/2022/05/nasa-chief-says-cost-plus-contracts-are-a-plague-on-the-space-agency/" >🔗</a> **[Arstechnica]** NASA chief says cost-plus contracts are a “plague” on the space agency
-- <a href="https://arstechnica.com/science/2022/05/rocket-lab-catches-a-1-ton-booster-falling-back-from-space/" >🔗</a> **[Arstechnica]** Rocket Lab catches a 1-ton booster falling back from space
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T191831">2022-05-03 19:18:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220503T202405">2022-05-03 20:24:05 UTC</a>
   <br>
 </div>
