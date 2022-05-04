@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy payload arrives in Florida for the first time in years
 - <a href="https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/" >🔗</a> **[SpaceNews]** NaraSpace Technology closes $7.88 million Series A for nanosatellite project
 - <a href="https://spacenews.com/exomars-official-says-launch-unlikely-before-2028/" >🔗</a> **[SpaceNews]** ExoMars official says launch unlikely before 2028
 - <a href="https://spacenews.com/ast-spacemobile-licensed-to-connect-test-satellite-to-us-cellular-phones/" >🔗</a> **[SpaceNews]** AST SpaceMobile licensed to connect test satellite to US cellular phones
 - <a href="https://spaceflightnow.com/2022/05/03/rocket-lab-briefly-catches-booster-in-mid-air-after-successful-launch/" >🔗</a> **[Spaceflight Now]** Rocket Lab briefly catches booster in mid-air after successful launch
-- <a href="http://www.nasa.gov/press-release/nasa-announces-winners-of-2022-human-exploration-rover-challenge" >🔗</a> **[NASA]** NASA Announces Winners of 2022 Human Exploration Rover Challenge
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T102544">2022-05-04 10:25:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T111729">2022-05-04 11:17:29 UTC</a>
   <br>
 </div>
