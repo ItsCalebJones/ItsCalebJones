@@ -125,7 +125,7 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Taiyuan, People's Republic of China to -.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T094700">2022-05-06 09:47:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T094600">2022-05-06 09:46:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-17</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-debris-removal-demo-makes-close-approach-despite-thruster-issues/" >🔗</a> **[SpaceNews]** Astroscale debris-removal demo makes close approach despite thruster issues
+- <a href="https://spaceflightnow.com/2022/05/04/boeings-starliner-crew-capsule-meets-atlas-rocket-for-another-attempt-at-test-flight/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner crew capsule meets Atlas rocket for long-delayed test flight
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-test-launch" >🔗</a> **[NASA]** NASA to Discuss Status of Artemis I Test, Launch
 - <a href="http://www.nasa.gov/press-release/as-station-crew-readies-to-return-to-earth-nasa-sets-tv-coverage" >🔗</a> **[NASA]** As Station Crew Readies to Return to Earth, NASA Sets TV Coverage
 - <a href="https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/" >🔗</a> **[Arstechnica]** This time, can Boeing’s Starliner finally shine?
-- <a href="https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/" >🔗</a> **[SpaceNews]** Nelson criticizes “plague” of cost-plus NASA contracts
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy payload arrives in Florida for the first time in years
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T173055">2022-05-04 17:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T182747">2022-05-04 18:27:47 UTC</a>
   <br>
 </div>
