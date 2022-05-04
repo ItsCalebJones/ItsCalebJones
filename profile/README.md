@@ -150,6 +150,11 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220521T000000">2022-05-21 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-18</b> from Kennedy Space Center, FL, USA to LEO.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182500">2022-05-25 18:25:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
@@ -158,11 +163,6 @@ into *an Unknown Orbit
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T000000">2022-05-27 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-18</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-test-launch" >🔗</a> **[NASA]** NASA to Discuss Status of Artemis I Test, Launch
 - <a href="http://www.nasa.gov/press-release/as-station-crew-readies-to-return-to-earth-nasa-sets-tv-coverage" >🔗</a> **[NASA]** As Station Crew Readies to Return to Earth, NASA Sets TV Coverage
 - <a href="https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/" >🔗</a> **[Arstechnica]** This time, can Boeing’s Starliner finally shine?
 - <a href="https://spacenews.com/nelson-criticizes-plague-of-cost-plus-nasa-contracts/" >🔗</a> **[SpaceNews]** Nelson criticizes “plague” of cost-plus NASA contracts
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-spacecraft-arrives-in-florida/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy payload arrives in Florida for the first time in years
-- <a href="https://spacenews.com/naraspace-technology-closes-7-88-million-series-a-for-nanosatellite-project/" >🔗</a> **[SpaceNews]** NaraSpace Technology closes $7.88 million Series A for nanosatellite project
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T163630">2022-05-04 16:36:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T173055">2022-05-04 17:30:55 UTC</a>
   <br>
 </div>
