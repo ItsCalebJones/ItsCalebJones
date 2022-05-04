@@ -176,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-deputy-administrator-to-visit-artemis-partner-advanced-space" >🔗</a> **[NASA]** NASA Deputy Administrator to Visit Artemis Partner Advanced Space
+- <a href="https://spacenews.com/darpa-moving-forward-with-development-of-nuclear-powered-spacecraft/" >🔗</a> **[SpaceNews]** DARPA moving forward with development of nuclear powered spacecraft
 - <a href="https://spacenews.com/astroscale-debris-removal-demo-makes-close-approach-despite-thruster-issues/" >🔗</a> **[SpaceNews]** Astroscale debris-removal demo makes close approach despite thruster issues
 - <a href="https://spaceflightnow.com/2022/05/04/boeings-starliner-crew-capsule-meets-atlas-rocket-for-another-attempt-at-test-flight/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner crew capsule meets Atlas rocket for long-delayed test flight
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-status-of-artemis-i-test-launch" >🔗</a> **[NASA]** NASA to Discuss Status of Artemis I Test, Launch
-- <a href="http://www.nasa.gov/press-release/as-station-crew-readies-to-return-to-earth-nasa-sets-tv-coverage" >🔗</a> **[NASA]** As Station Crew Readies to Return to Earth, NASA Sets TV Coverage
-- <a href="https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/" >🔗</a> **[Arstechnica]** This time, can Boeing’s Starliner finally shine?
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T212123">2022-05-04 21:21:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220504T222324">2022-05-04 22:23:24 UTC</a>
   <br>
 </div>
