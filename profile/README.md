@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch
 - <a href="https://www.nasaspaceflight.com/2022/05/one-year-since-sn15-starbase-lays-groundwork-for-orbital-attempt/" >🔗</a> **[NASA Spaceflight]** One year since SN15, Starbase lays groundwork for orbital attempt
 - <a href="http://www.nasa.gov/press-release/nasa-invites-media-to-spacex-s-25th-cargo-launch-to-space-station" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 25th Cargo Launch to Space Station
 - <a href="https://spacenews.com/tomorrow-io-adds-microwave-sounders/" >🔗</a> **[SpaceNews]** Tomorrow.io on track for 2024 weather constellation
 - <a href="https://spacenews.com/noaa-baas-emerging-technologies/" >🔗</a> **[SpaceNews]** NOAA seeks input on new satellite sensors and digital twin
-- <a href="https://mars.nasa.gov/news/9184/" >🔗</a> **[NASA]** Science at Sunrise: Solving the Mystery of Frost Hiding on Mars
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T212027">2022-05-05 21:20:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T222352">2022-05-05 22:23:52 UTC</a>
   <br>
 </div>
