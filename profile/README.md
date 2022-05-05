@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/tomorrow-io-adds-microwave-sounders/" >🔗</a> **[SpaceNews]** Tomorrow.io on track for 2024 weather constellation
 - <a href="https://spacenews.com/noaa-baas-emerging-technologies/" >🔗</a> **[SpaceNews]** NOAA seeks input on new satellite sensors and digital twin
 - <a href="https://mars.nasa.gov/news/9184/" >🔗</a> **[NASA]** Science at Sunrise: Solving the Mystery of Frost Hiding on Mars
 - <a href="https://spacenews.com/nasa-boeing-ready-for-second-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA, Boeing ready for second Starliner test flight
 - <a href="http://www.nasa.gov/press-release/nasa-to-discuss-webb-telescope-alignment-instrument-setup" >🔗</a> **[NASA]** NASA to Discuss Webb Telescope Alignment, Instrument Setup
-- <a href="https://spaceflightnow.com/2022/05/05/dragon-crew-capsule-undocks-from-space-station-heads-for-splashdown-friday/" >🔗</a> **[Spaceflight Now]** Dragon crew capsule undocks from space station, heads for splashdown Friday
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T172755">2022-05-05 17:27:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T182722">2022-05-05 18:27:22 UTC</a>
   <br>
 </div>
