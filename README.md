@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-batches-of-jilin-1-commercial-remote-sensing-satellites/" >🔗</a> **[SpaceNews]** China launches new batches of Jilin-1 commercial remote sensing satellites
+- <a href="https://spacenews.com/senate-rejects-effort-to-strip-nasa-lunar-lander-provision-from-authorization-bill/" >🔗</a> **[SpaceNews]** Senate rejects effort to strip NASA lunar lander provision from authorization bill
 - <a href="https://www.teslarati.com/spacex-nasa-crew-dragon-crew-3-space-station-departure/" >🔗</a> **[Teslarati]** SpaceX Crew Dragon spacecraft departs space station with NASA, ESA astronauts
 - <a href="https://www.nasaspaceflight.com/2022/05/crew-3-return/" >🔗</a> **[NASA Spaceflight]** Crew-3: Endurance departs the ISS for its return to Earth
 - <a href="https://spacenews.com/air-forces-rocket-propulsion-arm-looking-to-invest-in-technologies-for-responsive-launch/" >🔗</a> **[SpaceNews]** Air Force’s rocket propulsion arm looking to invest in technologies for ‘responsive launch’
-- <a href="https://spacenews.com/satellogic-to-launch-68-satellites-with-spacex/" >🔗</a> **[SpaceNews]** Satellogic to launch 68 satellites with SpaceX
-- <a href="http://www.nasa.gov/press-release/nasa-deputy-administrator-to-visit-artemis-partner-advanced-space" >🔗</a> **[NASA]** NASA Deputy Administrator to Visit Artemis Partner Advanced Space
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T111923">2022-05-05 11:19:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220505T124701">2022-05-05 12:47:01 UTC</a>
   <br>
 </div>
