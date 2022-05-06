@@ -131,12 +131,12 @@ into *a Low Earth Orbit
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T185000">2022-05-10 18:50:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T001000">2022-05-17 00:10:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/starlink-4-17/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch morning Starlink mission from Kennedy Space Center
+- <a href="https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/" >🔗</a> **[Arstechnica]** SpaceX caps an incredibly busy month with a NASA crew landing Friday morning
 - <a href="http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth" >🔗</a> **[NASA]** NASA, ESA Astronauts Safely Return to Earth
 - <a href="https://spacenews.com/crew-3-splashes-down-in-gulf-of-mexico/" >🔗</a> **[SpaceNews]** Crew-3 splashes down in Gulf of Mexico
 - <a href="https://spaceflightnow.com/2022/05/05/psyche-asteroid-explorer-arrives-at-kennedy-space-center-for-final-launch-preps/" >🔗</a> **[Spaceflight Now]** Psyche asteroid explorer arrives at Kennedy Space Center for launch preps
-- <a href="https://www.teslarati.com/spacex-falcon-9-44th-starlink-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket goes vertical for 44th Starlink launch
-- <a href="https://www.nasaspaceflight.com/2022/05/one-year-since-sn15-starbase-lays-groundwork-for-orbital-attempt/" >🔗</a> **[NASA Spaceflight]** One year since SN15, Starbase lays groundwork for orbital attempt
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T063041">2022-05-06 06:30:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T072136">2022-05-06 07:21:36 UTC</a>
   <br>
 </div>
