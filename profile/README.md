@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-to-visit-florida-students-industry" >🔗</a> **[NASA]** NASA Administrator to Visit Florida Students, Industry
 - <a href="https://spacenews.com/nasa-planning-next-sls-countdown-rehearsal-in-june/" >🔗</a> **[SpaceNews]** NASA planning next SLS countdown rehearsal in June
 - <a href="https://arstechnica.com/science/2022/05/rocket-report-virgin-galactic-delayed-again-june-targeted-for-next-sls-test/" >🔗</a> **[Arstechnica]** Rocket Report: Virgin Galactic delayed again, June targeted for next SLS test
 - <a href="https://www.nasaspaceflight.com/2022/05/starlink-4-17/" >🔗</a> **[NASA Spaceflight]** SpaceX launches morning Starlink mission from Kennedy Space Center
 - <a href="https://arstechnica.com/science/2022/05/spacex-caps-an-incredibly-busy-month-with-a-nasa-crew-landing-friday-morning/" >🔗</a> **[Arstechnica]** SpaceX caps an incredibly busy month with a NASA crew landing Friday morning
-- <a href="http://www.nasa.gov/press-release/nasa-esa-astronauts-safely-return-to-earth" >🔗</a> **[NASA]** NASA, ESA Astronauts Safely Return to Earth
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T142151">2022-05-06 14:21:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T152509">2022-05-06 15:25:09 UTC</a>
   <br>
 </div>
