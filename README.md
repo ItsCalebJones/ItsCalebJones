@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/" >🔗</a> **[NASA Spaceflight]** Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS
 - <a href="https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/" >🔗</a> **[Spaceflight Now]** Splashdown of SpaceX capsule caps busy season of space station crew rotations
 - <a href="https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/" >🔗</a> **[SpaceNews]** Telesat to order 100 fewer satellites for LEO constellation
 - <a href="https://spacenews.com/virgin-galactic-pushes-back-commercial-suborbital-flights-to-2023/" >🔗</a> **[SpaceNews]** Virgin Galactic pushes back commercial suborbital flights to 2023
 - <a href="https://spacenews.com/spacex-moved-nrol-85-from-the-cape-to-vandenberg-at-no-extra-cost-in-exchange-for-reusing-booster/" >🔗</a> **[SpaceNews]** SpaceX moved NROL-85 from the Cape to Vandenberg at no extra cost, in exchange for reusing booster
-- <a href="https://spacenews.com/new-intelsat-ceo-builds-out-leadership-team/" >🔗</a> **[SpaceNews]** New Intelsat CEO builds out leadership team
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T222233">2022-05-06 22:22:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220506T232241">2022-05-06 23:22:41 UTC</a>
   <br>
 </div>
