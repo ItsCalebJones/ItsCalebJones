@@ -130,7 +130,7 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T001000">2022-05-17 00:10:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T060000">2022-05-13 06:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
 - <a href="https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace completes kilometer-level rocket launch and landing test
 - <a href="https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/" >🔗</a> **[NASA Spaceflight]** Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS
 - <a href="https://spaceflightnow.com/2022/05/06/splashdown-of-spacex-capsule-caps-busy-season-of-space-station-crew-rotations/" >🔗</a> **[Spaceflight Now]** Splashdown of SpaceX capsule caps busy season of space station crew rotations
 - <a href="https://spacenews.com/telesat-to-order-90-fewer-satellites-for-leo-constellation/" >🔗</a> **[SpaceNews]** Telesat to order 100 fewer satellites for LEO constellation
-- <a href="https://spacenews.com/virgin-galactic-pushes-back-commercial-suborbital-flights-to-2023/" >🔗</a> **[SpaceNews]** Virgin Galactic pushes back commercial suborbital flights to 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T172252">2022-05-07 17:22:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220507T182613">2022-05-07 18:26:13 UTC</a>
   <br>
 </div>
