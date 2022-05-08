@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/" >🔗</a> **[SpaceNews]** NASA defends decision to shut down SOFIA
 - <a href="https://spacenews.com/faa-and-ntsb-discussing-roles-in-commercial-spaceflight-investigations/" >🔗</a> **[SpaceNews]** FAA and NTSB discussing roles in commercial spaceflight investigations
 - <a href="https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/" >🔗</a> **[NASA Spaceflight]** 30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality
 - <a href="https://spacenews.com/astra-prepares-for-tropics-launch-campaign/" >🔗</a> **[SpaceNews]** Astra prepares for TROPICS launch campaign
 - <a href="https://spacenews.com/deep-blue-aerospace-completes-kilometer-level-rocket-launch-and-landing-test/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace completes kilometer-level rocket launch and landing test
-- <a href="https://www.nasaspaceflight.com/2022/05/expedition-67-first-month/" >🔗</a> **[NASA Spaceflight]** Russian spacewalks, visiting Dragons, and science: Expedition 67’s first month at the ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T202306">2022-05-08 20:23:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T211930">2022-05-08 21:19:30 UTC</a>
   <br>
 </div>
