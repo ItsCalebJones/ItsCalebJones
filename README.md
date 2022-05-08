@@ -157,17 +157,17 @@ into *a Low Earth Orbit
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>PSLV  | RISAT-2A</b> from Sriharikota, Republic of India to LEO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Firefly Alpha | Flight Two</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | NROL-162 (RASR-3)</b> from Onenui Station, Mahia Peninsula, New Zealand.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Hyperbola-1 | Jilin-1 Mofang-01A(R)</b> from Jiuquan, People's Republic of China to SSO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | NROL-199 (RASR-4)</b> from Onenui Station, Mahia Peninsula, New Zealand.</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T092300">2022-06-03 09:23:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan to LEO.</td>
 </tr>
 
 </tbody>
@@ -185,6 +185,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T152314">2022-05-08 15:23:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220508T163106">2022-05-08 16:31:06 UTC</a>
   <br>
 </div>
