@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/" >🔗</a> **[SpaceNews]** CACI to launch experimental satellite to demonstrate alternative to GPS navigation
+- <a href="https://www.nasaspaceflight.com/2022/05/centaur-turns-60/" >🔗</a> **[NASA Spaceflight]** As Centaur turns 60 years old, ULA prepares to evolve Centaur V
+- <a href="https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/" >🔗</a> **[Arstechnica]** After losing contact with its helicopter, NASA put the entire Mars mission on hold
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/" >🔗</a> **[Teslarati]** SpaceX Super Heavy booster returns to launch pad after major repairs
 - <a href="https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/" >🔗</a> **[SpaceNews]** Momentus receives approvals for first tug launch
-- <a href="https://spacenews.com/nasa-defends-decision-to-shut-down-sofia/" >🔗</a> **[SpaceNews]** NASA defends decision to shut down SOFIA
-- <a href="https://spacenews.com/faa-and-ntsb-discussing-roles-in-commercial-spaceflight-investigations/" >🔗</a> **[SpaceNews]** FAA and NTSB discussing roles in commercial spaceflight investigations
-- <a href="https://www.nasaspaceflight.com/2022/05/intelsatvi-mrv-mep/" >🔗</a> **[NASA Spaceflight]** 30 years after Intelsat VI rescue, Northrop Grumman aims to make in-space servicing a permanent reality
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T134127">2022-05-09 13:41:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T142051">2022-05-09 14:20:51 UTC</a>
   <br>
 </div>
