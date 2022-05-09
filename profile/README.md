@@ -176,7 +176,7 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/05/09/long-march-7-tianzhou-4-launch/" >🔗</a> **[Spaceflight Now]** Watch live: China set to launch space station cargo ship
+- <a href="https://spaceflightnow.com/2022/05/09/long-march-7-tianzhou-4-launch/" >🔗</a> **[Spaceflight Now]** China launches Tianzhou 4 cargo ship for space station
 - <a href="https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/" >🔗</a> **[NASA Spaceflight]** Tianzhou 4 cargo launch to begin busy space station year for China
 - <a href="http://www.nasa.gov/press-release/nasa-s-glenn-research-center-director-to-retire" >🔗</a> **[NASA]** NASA’s Glenn Research Center Director to Retire
 - <a href="https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/" >🔗</a> **[SpaceNews]** South Korea’s new president seeks independent space agency, deeper US space cooperation
@@ -185,6 +185,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T182757">2022-05-09 18:27:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T191840">2022-05-09 19:18:40 UTC</a>
   <br>
 </div>
