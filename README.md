@@ -160,14 +160,14 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Hyperbola-1 | Jilin-1 Mofang-01A(R)</b> from Jiuquan, People's Republic of China to SSO.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>New Shepard | NS-21</b> from Corn Ranch, USA to Sub.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T092300">2022-06-03 09:23:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T153000">2022-06-07 15:30:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 
 </tbody>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth" >🔗</a> **[NASA]** NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth
 - <a href="https://spacenews.com/caci-to-launch-experimental-satellite-to-demonstrate-alternative-to-gps-navigation/" >🔗</a> **[SpaceNews]** CACI to launch experimental satellite to demonstrate alternative to GPS navigation
 - <a href="https://www.nasaspaceflight.com/2022/05/centaur-turns-60/" >🔗</a> **[NASA Spaceflight]** As Centaur turns 60 years old, ULA prepares to evolve Centaur V
 - <a href="https://arstechnica.com/science/2022/05/after-an-amazing-run-on-mars-nasas-helicopter-faces-a-long-dark-winter/" >🔗</a> **[Arstechnica]** After losing contact with its helicopter, NASA put the entire Mars mission on hold
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-b7-completes-repairs/" >🔗</a> **[Teslarati]** SpaceX Super Heavy booster returns to launch pad after major repairs
-- <a href="https://spacenews.com/momentus-receives-approvals-for-first-tug-launch/" >🔗</a> **[SpaceNews]** Momentus receives approvals for first tug launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T142051">2022-05-09 14:20:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T152530">2022-05-09 15:25:30 UTC</a>
   <br>
 </div>
