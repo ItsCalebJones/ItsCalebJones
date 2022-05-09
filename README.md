@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://mars.nasa.gov/news/9185/" >🔗</a> **[NASA]** NASA's InSight Records Monster Quake on Mars
+- <a href="https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/" >🔗</a> **[Teslarati]** SpaceX agrees to launch dozens of Satellogic Earth imaging satellites
+- <a href="https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/" >🔗</a> **[SpaceNews]** Globalstar agrees terms with “global customer” for terrestrial connectivity
+- <a href="http://www.nasa.gov/press-release/nasa-boeing-to-discuss-readiness-of-uncrewed-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Discuss Readiness of Uncrewed Flight Test
 - <a href="https://spaceflightnow.com/2022/05/09/long-march-7-tianzhou-4-launch/" >🔗</a> **[Spaceflight Now]** China launches Tianzhou 4 cargo ship for space station
-- <a href="https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/" >🔗</a> **[NASA Spaceflight]** Tianzhou 4 cargo launch to begin busy space station year for China
-- <a href="http://www.nasa.gov/press-release/nasa-s-glenn-research-center-director-to-retire" >🔗</a> **[NASA]** NASA’s Glenn Research Center Director to Retire
-- <a href="https://spacenews.com/south-koreas-new-president-seeks-independent-space-agency-deeper-us-space-cooperation/" >🔗</a> **[SpaceNews]** South Korea’s new president seeks independent space agency, deeper US space cooperation
-- <a href="http://www.nasa.gov/press-release/nasa-s-spacex-crew-3-to-discuss-mission-after-returning-to-earth" >🔗</a> **[NASA]** NASA’s SpaceX Crew-3 to Discuss Mission After Returning to Earth
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T222246">2022-05-09 22:22:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T232250">2022-05-09 23:22:50 UTC</a>
   <br>
 </div>
