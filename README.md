@@ -90,7 +90,7 @@ from *<a href="https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center">W
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T174600">2022-05-09 17:46:00 UTC</a>.  Until
 then, this pad will have been used for 12
 out of 16 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Resupply* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -121,7 +121,7 @@ into *a Low Earth Orbit
     <tbody>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T174600">2022-05-09 17:46:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 7  | Tianzhou-4</b> from Wenchang Satellite Launch Center, People's Republic of China to LEO.</td>
 </tr>
 <tr>
@@ -185,6 +185,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T083011">2022-05-09 08:30:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220509T092838">2022-05-09 09:28:38 UTC</a>
   <br>
 </div>
