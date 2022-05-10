@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** National Reconnaissance Office partners with U.K. on space mission to fly on Virgin Orbit rocket
 - <a href="https://spacenews.com/india-france-agree-to-cooperate-on-secure-access-to-outer-space-space-based-challenges/" >🔗</a> **[SpaceNews]** India, France agree to cooperate on secure access to outer space, space-based challenges
 - <a href="https://arstechnica.com/science/2022/05/entrepreneurs-create-a-space-academy-as-commercial-space-flourishes/" >🔗</a> **[Arstechnica]** Entrepreneurs create a space “academy” as commercial space flourishes
-- <a href="https://spacenews.com/national-reconnaissance-office-to-launch-mission-on-virgin-orbit-rocket-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** National Reconnaissance Office to launch mission on Virgin Orbit rocket from U.K. spaceport
 - <a href="https://www.teslarati.com/spacex-back-to-back-starlink-launches-may-2022/" >🔗</a> **[Teslarati]** SpaceX preparing for back-to-back Starlink launches from California and Florida
 - <a href="https://spacenews.com/astra-to-launch-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** Astra to launch from U.K. spaceport
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T142551">2022-05-10 14:25:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T152439">2022-05-10 15:24:39 UTC</a>
   <br>
 </div>
