@@ -130,7 +130,7 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225436">2022-05-19 22:54:36 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225444">2022-05-19 22:54:44 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
@@ -180,11 +180,11 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/" >🔗</a> **[Teslarati]** SpaceX agrees to launch dozens of Satellogic Earth imaging satellites
 - <a href="https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/" >🔗</a> **[SpaceNews]** Globalstar agrees terms with “global customer” for terrestrial connectivity
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-discuss-readiness-of-uncrewed-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Discuss Readiness of Uncrewed Flight Test
-- <a href="https://spaceflightnow.com/2022/05/09/long-march-7-tianzhou-4-launch/" >🔗</a> **[Spaceflight Now]** China launches Tianzhou 4 cargo ship for space station
+- <a href="https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/" >🔗</a> **[NASA Spaceflight]** Tianzhou 4 cargo launch to begin busy space station year for China
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T062839">2022-05-10 06:28:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T072204">2022-05-10 07:22:04 UTC</a>
   <br>
 </div>
