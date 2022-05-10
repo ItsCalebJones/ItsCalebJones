@@ -87,7 +87,7 @@ The next space launch, retrieved from The Space Devs
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T215900">2022-05-12 21:59:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222900">2022-05-12 22:29:00 UTC</a>.  Until
 then, this pad will have been used for 90
 out of 696 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -120,7 +120,7 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T215900">2022-05-12 21:59:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222900">2022-05-12 22:29:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
@@ -185,6 +185,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T013824">2022-05-10 01:38:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T025242">2022-05-10 02:52:42 UTC</a>
   <br>
 </div>
