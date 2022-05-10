@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-4 cargo craft docks with Chinese space station
 - <a href="https://mars.nasa.gov/news/9185/" >🔗</a> **[NASA]** NASA's InSight Records Monster Quake on Mars
 - <a href="https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/" >🔗</a> **[Teslarati]** SpaceX agrees to launch dozens of Satellogic Earth imaging satellites
 - <a href="https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/" >🔗</a> **[SpaceNews]** Globalstar agrees terms with “global customer” for terrestrial connectivity
 - <a href="http://www.nasa.gov/press-release/nasa-boeing-to-discuss-readiness-of-uncrewed-flight-test" >🔗</a> **[NASA]** NASA, Boeing to Discuss Readiness of Uncrewed Flight Test
-- <a href="https://www.nasaspaceflight.com/2022/05/tianzhou-4-launch/" >🔗</a> **[NASA Spaceflight]** Tianzhou 4 cargo launch to begin busy space station year for China
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T082847">2022-05-10 08:28:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T092315">2022-05-10 09:23:15 UTC</a>
   <br>
 </div>
