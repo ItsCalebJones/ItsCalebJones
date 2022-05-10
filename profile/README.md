@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-back-to-back-starlink-launches-may-2022/" >🔗</a> **[Teslarati]** SpaceX preparing for back-to-back Starlink launches from California and Florida
 - <a href="https://spacenews.com/astra-to-launch-from-u-k-spaceport/" >🔗</a> **[SpaceNews]** Astra to launch from U.K. spaceport
 - <a href="https://spacenews.com/tianzhou-4-cargo-craft-docks-with-chinese-space-station/" >🔗</a> **[SpaceNews]** Tianzhou-4 cargo craft docks with Chinese space station
 - <a href="https://mars.nasa.gov/news/9185/" >🔗</a> **[NASA]** NASA's InSight Records Monster Quake on Mars
 - <a href="https://www.teslarati.com/spacex-satellogic-68-satellite-launch-agreement-2022/" >🔗</a> **[Teslarati]** SpaceX agrees to launch dozens of Satellogic Earth imaging satellites
-- <a href="https://spacenews.com/globalstar-agrees-terms-with-global-customer-for-terrestrial-connectivity/" >🔗</a> **[SpaceNews]** Globalstar agrees terms with “global customer” for terrestrial connectivity
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T102539">2022-05-10 10:25:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T112033">2022-05-10 11:20:33 UTC</a>
   <br>
 </div>
