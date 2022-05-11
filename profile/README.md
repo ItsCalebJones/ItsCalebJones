@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/" >🔗</a> **[SpaceNews]** As US blames Russia for KA-SAT hack, Starlink sees growing threat
 - <a href="https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/" >🔗</a> **[Spaceflight Now]** Vega C prepped for maiden flight in June
 - <a href="https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/" >🔗</a> **[SpaceNews]** Orbex unveils prototype of rocket preparing for UK’s first vertical launch
 - <a href="https://spacenews.com/colombia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Colombia signs Artemis Accords
 - <a href="https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/" >🔗</a> **[SpaceNews]** Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes
-- <a href="https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/" >🔗</a> **[Teslarati]** SpaceX President updates schedule for Starship’s orbital launch debut
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T211925">2022-05-11 21:19:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T222150">2022-05-11 22:21:50 UTC</a>
   <br>
 </div>
