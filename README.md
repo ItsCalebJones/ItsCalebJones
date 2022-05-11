@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/colombia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Colombia signs Artemis Accords
+- <a href="https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/" >🔗</a> **[SpaceNews]** Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes
 - <a href="https://www.teslarati.com/spacex-gwynne-shotwell-starship-orbital-launch-debut-schedule-2022/" >🔗</a> **[Teslarati]** SpaceX President updates schedule for Starship’s orbital launch debut
 - <a href="https://spacenews.com/electric-vehicle-company-with-nasa-contract-issues-financial-warning/" >🔗</a> **[SpaceNews]** Electric vehicle company with NASA contract issues financial warning
-- <a href="https://spaceflightnow.com/2022/05/10/spacex-training-begins-this-month-for-first-commercial-spacewalk-mission/" >🔗</a> **[Spaceflight Now]** SpaceX training begins this month for first commercial spacewalk mission
-- <a href="https://spacenews.com/space-force-to-invest-in-testing-infrastructure-to-evaluate-new-systems/" >🔗</a> **[SpaceNews]** Space Force to invest in testing infrastructure to evaluate new systems
-- <a href="https://spacenews.com/spire-global-adding-high-capacity-ku-band-antennas-to-satellites/" >🔗</a> **[SpaceNews]** Spire Global adding high-capacity Ku-band antennas to satellites
+- <a href="https://www.reuters.com/business/aerospace-defense/exclusive-boeing-clashes-with-key-supplier-ahead-starliner-spacecraft-launch-2022-05-11/" >🔗</a> **[Reuters]** Boeing clashes with key supplier ahead of Starliner spacecraft launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T111904">2022-05-11 11:19:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T124850">2022-05-11 12:48:50 UTC</a>
   <br>
 </div>
