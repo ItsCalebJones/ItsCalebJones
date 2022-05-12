@@ -178,15 +178,15 @@ NOTE: Payload identity unconfirmed.
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-polaris-first-private-spacewalk-astronaut-training/" >🔗</a> **[Teslarati]** SpaceX ready to begin training astronauts for first private spacewalk
 - <a href="https://www.nasaspaceflight.com/2022/05/oft-2-frr/" >🔗</a> **[NASA Spaceflight]** Boeing, NASA teams give Starliner final go for OFT-2 mission
 - <a href="https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/" >🔗</a> **[SpaceNews]** As US blames Russia for KA-SAT hack, Starlink sees growing threat
 - <a href="https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/" >🔗</a> **[Spaceflight Now]** Vega C prepped for maiden flight in June
 - <a href="https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/" >🔗</a> **[SpaceNews]** Orbex unveils prototype of rocket preparing for UK’s first vertical launch
-- <a href="https://spacenews.com/colombia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Colombia signs Artemis Accords
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T102813">2022-05-12 10:28:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T112019">2022-05-12 11:20:19 UTC</a>
   <br>
 </div>
