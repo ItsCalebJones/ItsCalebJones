@@ -178,15 +178,15 @@ NOTE: Payload identity unconfirmed.
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast
+- <a href="https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/" >🔗</a> **[SpaceNews]** SES mulls direct-to-handheld 5G satellite business
 - <a href="https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/" >🔗</a> **[Spaceflight Now]** NOAA reveals first images from new weather satellite
 - <a href="https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/" >🔗</a> **[SpaceNews]** Manchin introduces bipartisan bill to establish Space National Guard
 - <a href="https://spaceflightnow.com/2022/05/12/astronomers-unveil-first-image-of-the-milky-ways-central-black-hole/" >🔗</a> **[Spaceflight Now]** Astronomers unveil first image of the Milky Way’s central black hole
-- <a href="http://www.nasa.gov/press-release/colorado-students-to-hear-from-astronauts-aboard-space-station" >🔗</a> **[NASA]** Colorado Students to Hear from Astronauts Aboard Space Station
-- <a href="https://spacenews.com/boeing-considering-redesign-of-starliner-valves/" >🔗</a> **[SpaceNews]** Boeing considering redesign of Starliner valves
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T211924">2022-05-12 21:19:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222522">2022-05-12 22:25:22 UTC</a>
   <br>
 </div>
