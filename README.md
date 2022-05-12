@@ -87,16 +87,16 @@ The next space launch, retrieved from The Space Devs
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222900">2022-05-12 22:29:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T220700">2022-05-13 22:07:00 UTC</a>.  Until
 then, this pad will have been used for 90
 out of 696 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -120,8 +120,8 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T222900">2022-05-12 22:29:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T220700">2022-05-13 22:07:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/oft-2-frr/" >🔗</a> **[NASA Spaceflight]** Boeing, NASA teams give Starliner final go for OFT-2 mission
 - <a href="https://spacenews.com/as-us-blames-russia-for-ka-sat-hack-starlink-sees-growing-threat/" >🔗</a> **[SpaceNews]** As US blames Russia for KA-SAT hack, Starlink sees growing threat
 - <a href="https://spaceflightnow.com/2022/05/11/vega-c-prepped-for-maiden-flight-in-june/" >🔗</a> **[Spaceflight Now]** Vega C prepped for maiden flight in June
 - <a href="https://spacenews.com/orbex-unveils-prototype-of-rocket-preparing-for-uks-first-vertical-launch/" >🔗</a> **[SpaceNews]** Orbex unveils prototype of rocket preparing for UK’s first vertical launch
 - <a href="https://spacenews.com/colombia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Colombia signs Artemis Accords
-- <a href="https://spacenews.com/eyes-on-the-arctic-satellites-reveal-changing-conditions-at-northern-latitudes/" >🔗</a> **[SpaceNews]** Eyes on the Arctic: Satellites reveal changing conditions at northern latitudes
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220511T232450">2022-05-11 23:24:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220512T020214">2022-05-12 02:02:14 UTC</a>
   <br>
 </div>
