@@ -125,8 +125,8 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-13</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T203350">2022-05-14 20:33:50 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T204000">2022-05-14 20:40:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
@@ -171,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch 2,500th Starlink satellite in third back-to-back mission
 - <a href="https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/" >🔗</a> **[SpaceNews]** Inmarsat agrees plan to move ground station out of the Netherlands
 - <a href="https://spaceflightnow.com/2022/05/13/chinese-startup-suffers-third-consecutive-launch-failure/" >🔗</a> **[Spaceflight Now]** Chinese startup suffers third consecutive launch failure
 - <a href="https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/" >🔗</a> **[Spaceflight Now]** SpaceX planning two Starlink launches Friday and Saturday, weather permitting
 - <a href="https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/" >🔗</a> **[SpaceNews]** Chinese rocket company suffers third consecutive launch failure
-- <a href="https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/" >🔗</a> **[Teslarati]** SpaceX’s repaired Starship booster survives back-to-back cryoproof tests
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T202550">2022-05-13 20:25:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T212024">2022-05-13 21:20:24 UTC</a>
   <br>
 </div>
