@@ -171,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/" >🔗</a> **[Teslarati]** SpaceX’s repaired Starship booster survives back-to-back cryoproof tests
+- <a href="https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/" >🔗</a> **[SpaceNews]** ISS partnership feeling some effects of sanctions on Russia
 - <a href="https://spacenews.com/arctic-connectivity-competition-is-heating-up/" >🔗</a> **[SpaceNews]** Arctic connectivity competition is heating up
 - <a href="http://www.nasa.gov/press-release/coverage-set-for-nasa-s-boeing-oft-2-briefings-events-broadcast" >🔗</a> **[NASA]** Coverage Set for NASA’s Boeing OFT-2 Briefings, Events, Broadcast
 - <a href="https://spacenews.com/ses-mulls-direct-to-handheld-5g-satellite-business/" >🔗</a> **[SpaceNews]** SES mulls direct-to-handheld 5G satellite business
-- <a href="https://spaceflightnow.com/2022/05/12/noaa-reveals-first-images-from-new-weather-satellite/" >🔗</a> **[Spaceflight Now]** NOAA reveals first images from new weather satellite
-- <a href="https://spacenews.com/manchin-introduces-bipartisan-bill-to-establish-space-national-guard/" >🔗</a> **[SpaceNews]** Manchin introduces bipartisan bill to establish Space National Guard
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T102653">2022-05-13 10:26:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T112034">2022-05-13 11:20:34 UTC</a>
   <br>
 </div>
