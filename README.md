@@ -171,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spaceflightnow.com/2022/05/13/chinese-startup-suffers-third-consecutive-launch-failure/" >🔗</a> **[Spaceflight Now]** Chinese startup suffers third consecutive launch failure
 - <a href="https://spaceflightnow.com/2022/05/13/spacex-planning-two-starlink-launches-friday-and-saturday-weather-permitting/" >🔗</a> **[Spaceflight Now]** SpaceX planning two Starlink launches Friday and Saturday, weather permitting
 - <a href="https://spacenews.com/chinese-rocket-company-suffers-third-consecutive-launch-failure/" >🔗</a> **[SpaceNews]** Chinese rocket company suffers third consecutive launch failure
 - <a href="https://www.teslarati.com/spacex-super-heavy-b7-back-to-back-cryoproofs/" >🔗</a> **[Teslarati]** SpaceX’s repaired Starship booster survives back-to-back cryoproof tests
 - <a href="https://spacenews.com/iss-partnership-feeling-some-effects-of-sanctions-on-russia/" >🔗</a> **[SpaceNews]** ISS partnership feeling some effects of sanctions on Russia
-- <a href="https://spacenews.com/arctic-connectivity-competition-is-heating-up/" >🔗</a> **[SpaceNews]** Arctic connectivity competition is heating up
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T163745">2022-05-13 16:37:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220513T173027">2022-05-13 17:30:27 UTC</a>
   <br>
 </div>
