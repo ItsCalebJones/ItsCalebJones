@@ -161,15 +161,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/redwire-warns-of-volatility-in-commercial-space-markets/" >🔗</a> **[SpaceNews]** Redwire warns of volatility in commercial space markets
 - <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Starlink 4-15 mission, expands booster fleet
 - <a href="https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/" >🔗</a> **[SpaceNews]** Air Force looking at next steps on Space Command basing decision
 - <a href="https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/" >🔗</a> **[SpaceNews]** Inmarsat agrees to move ground station out of the Netherlands
 - <a href="https://spacenews.com/pace-of-work-put-strain-on-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Pace of work put strain on private astronaut mission to ISS
-- <a href="https://www.nasaspaceflight.com/2022/05/spacex-2500th-starlink/" >🔗</a> **[NASA Spaceflight]** SpaceX launches 2,500th Starlink satellite in third back-to-back mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T222315">2022-05-14 22:23:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T232306">2022-05-14 23:23:06 UTC</a>
   <br>
 </div>
