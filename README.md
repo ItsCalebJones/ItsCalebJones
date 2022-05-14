@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 4-15**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 4-18**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T204050">2022-05-14 20:40:50 UTC</a>.  Until
-then, this pad will have been used for 141
-out of 841 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T090000">2022-05-18 09:00:00 UTC</a>.  Until
+then, this pad will have been used for 144
+out of 201 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220325220126.png" />
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220420174723.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
   </a>
 </p>
 
@@ -119,11 +119,6 @@ into *a Low Earth Orbit
       </tr>
     </thead>
     <tbody>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T204050">2022-05-14 20:40:50 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-15</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T090000">2022-05-18 09:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
@@ -166,7 +161,7 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Starlink 4-15 mission, expand booster fleet
+- <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-15/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Starlink 4-15 mission, expands booster fleet
 - <a href="https://spacenews.com/air-force-looking-at-next-steps-on-space-command-basing-decision/" >🔗</a> **[SpaceNews]** Air Force looking at next steps on Space Command basing decision
 - <a href="https://spacenews.com/inmarsat-agrees-plan-to-move-ground-station-out-of-netherlands/" >🔗</a> **[SpaceNews]** Inmarsat agrees to move ground station out of the Netherlands
 - <a href="https://spacenews.com/pace-of-work-put-strain-on-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Pace of work put strain on private astronaut mission to ISS
@@ -175,6 +170,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T202336">2022-05-14 20:23:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220514T211957">2022-05-14 21:19:57 UTC</a>
   <br>
 </div>
