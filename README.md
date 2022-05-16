@@ -154,6 +154,11 @@ into *a Low Earth Orbit
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg"/> <b>Nuri | Flight Test 2</b> from Naro Space Center, South Korea to SSO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -170,6 +175,6 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T052618">2022-05-16 05:26:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220516T063318">2022-05-16 06:33:18 UTC</a>
   <br>
 </div>
