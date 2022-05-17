@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Military experiment demonstrates intersatellite laser communications in Low Earth orbit
+- <a href="https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX already raising Falcon 9 rocket vertical for next Starlink launch
+- <a href="https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/" >🔗</a> **[SpaceNews]** Operational AST SpaceMobile satellites could proceed without prototype
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions" >🔗</a> **[NASA]** NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions
 - <a href="http://www.nasa.gov/press-release/nasa-seeks-input-on-moon-to-mars-objectives-comments-due-may-31" >🔗</a> **[NASA]** NASA Seeks Input on Moon to Mars Objectives, Comments Due May 31
-- <a href="https://mars.nasa.gov/insight/news/nasas-insight-still-hunting-marsquakes-as-power-levels-diminish" >🔗</a> **[NASA]** NASA's InSight Still Hunting Marsquakes as Power Levels Diminish
-- <a href="https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/" >🔗</a> **[NASA Spaceflight]** Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery
-- <a href="https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/" >🔗</a> **[Arstechnica]** NASA reveals launch dates for Artemis I through the first half of 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T202423">2022-05-17 20:24:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T211723">2022-05-17 21:17:23 UTC</a>
   <br>
 </div>
