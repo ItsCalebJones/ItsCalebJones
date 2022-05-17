@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://mars.nasa.gov/insight/news/nasas-insight-still-hunting-marsquakes-as-power-levels-diminish" >🔗</a> **[NASA]** NASA's InSight Still Hunting Marsquakes as Power Levels Diminish
+- <a href="https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/" >🔗</a> **[NASA Spaceflight]** Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery
+- <a href="https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/" >🔗</a> **[Arstechnica]** NASA reveals launch dates for Artemis I through the first half of 2023
 - <a href="https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/" >🔗</a> **[SpaceNews]** DIU selects nuclear-powered spacecraft designs for 2027 demonstrations
 - <a href="https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/" >🔗</a> **[SpaceNews]** Uzbekistan woos Starlink, OneWeb to bring satellite broadband
-- <a href="https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/" >🔗</a> **[SpaceNews]** Satellites key to Canada’s Arctic surveillance strategy
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch record-breaking communications satellite
-- <a href="https://spacenews.com/space-systems-dominate-rocket-lab-revenue/" >🔗</a> **[SpaceNews]** Space systems dominate Rocket Lab revenue
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T173224">2022-05-17 17:32:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T182858">2022-05-17 18:28:58 UTC</a>
   <br>
 </div>
