@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions" >🔗</a> **[NASA]** NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions
+- <a href="http://www.nasa.gov/press-release/nasa-seeks-input-on-moon-to-mars-objectives-comments-due-may-31" >🔗</a> **[NASA]** NASA Seeks Input on Moon to Mars Objectives, Comments Due May 31
 - <a href="https://mars.nasa.gov/insight/news/nasas-insight-still-hunting-marsquakes-as-power-levels-diminish" >🔗</a> **[NASA]** NASA's InSight Still Hunting Marsquakes as Power Levels Diminish
 - <a href="https://www.nasaspaceflight.com/2022/05/mars-2020-odyssey-frost/" >🔗</a> **[NASA Spaceflight]** Mars 2020 continues science in Jezero, Mars Odyssey solves Martian frost mystery
 - <a href="https://arstechnica.com/science/2022/05/nasa-reveals-launch-dates-for-artemis-i-through-the-first-half-of-2023/" >🔗</a> **[Arstechnica]** NASA reveals launch dates for Artemis I through the first half of 2023
-- <a href="https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/" >🔗</a> **[SpaceNews]** DIU selects nuclear-powered spacecraft designs for 2027 demonstrations
-- <a href="https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/" >🔗</a> **[SpaceNews]** Uzbekistan woos Starlink, OneWeb to bring satellite broadband
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T191540">2022-05-17 19:15:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T202423">2022-05-17 20:24:23 UTC</a>
   <br>
 </div>
