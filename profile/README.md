@@ -171,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/" >🔗</a> **[SpaceNews]** ABL Space Systems completes acceptance testing of RS1 upper stage
 - <a href="https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/" >🔗</a> **[NASA Spaceflight]** NASA, Air Liquide continue working on Artemis 1 WDR issues
 - <a href="https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/" >🔗</a> **[SpaceNews]** Spacecom plots maritime expansion after netting first customer
 - <a href="https://spacenews.com/india-hit-by-more-suspected-space-debris/" >🔗</a> **[SpaceNews]** India hit by more suspected space debris
 - <a href="https://spacenews.com/u-s-space-force-sees-future-demand-for-surveillance-beyond-earth-orbit/" >🔗</a> **[SpaceNews]** U.S. Space Force sees future demand for surveillance beyond Earth orbit
-- <a href="https://arstechnica.com/science/2022/05/actually-boeing-is-probably-the-savior-of-nasas-commercial-crew-program/" >🔗</a> **[Arstechnica]** Former NASA leaders praise Boeing’s willingness to risk commercial crew
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T082943">2022-05-17 08:29:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T092324">2022-05-17 09:23:24 UTC</a>
   <br>
 </div>
