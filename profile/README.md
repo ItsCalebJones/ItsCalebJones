@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/diu-selects-nuclear-powered-spacecraft-designs-for-2027-demonstrations/" >🔗</a> **[SpaceNews]** DIU selects nuclear-powered spacecraft designs for 2027 demonstrations
+- <a href="https://spacenews.com/uzbekistan-woos-starlink-oneweb-to-bring-satellite-broadband/" >🔗</a> **[SpaceNews]** Uzbekistan woos Starlink, OneWeb to bring satellite broadband
+- <a href="https://spacenews.com/satellites-key-to-canadas-arctic-surveillance-strategy/" >🔗</a> **[SpaceNews]** Satellites key to Canada’s Arctic surveillance strategy
 - <a href="https://www.teslarati.com/spacex-falcon-heavy-jupiter-3-record-payload/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch record-breaking communications satellite
 - <a href="https://spacenews.com/space-systems-dominate-rocket-lab-revenue/" >🔗</a> **[SpaceNews]** Space systems dominate Rocket Lab revenue
-- <a href="https://spacenews.com/abl-space-systems-completes-acceptance-testing-of-rs1-upper-stage/" >🔗</a> **[SpaceNews]** ABL Space Systems completes acceptance testing of RS1 upper stage
-- <a href="https://www.nasaspaceflight.com/2022/05/nasa-air-liquide-artemis-1-wdr/" >🔗</a> **[NASA Spaceflight]** NASA, Air Liquide continue working on Artemis 1 WDR issues
-- <a href="https://spacenews.com/spacecom-plots-maritime-expansion-after-netting-first-customer/" >🔗</a> **[SpaceNews]** Spacecom plots maritime expansion after netting first customer
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T133903">2022-05-17 13:39:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T142106">2022-05-17 14:21:06 UTC</a>
   <br>
 </div>
