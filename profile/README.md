@@ -152,8 +152,8 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>New Shepard | NS-21</b> from Corn Ranch, USA to Sub.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T092300">2022-06-03 09:23:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093200">2022-06-03 09:32:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan to LEO.</td>
 </tr>
 <tr>
@@ -187,6 +187,6 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T142444">2022-05-18 14:24:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T152514">2022-05-18 15:25:14 UTC</a>
   <br>
 </div>
