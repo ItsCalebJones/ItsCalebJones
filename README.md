@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite contractors team up to deal with supply shortages
 - <a href="https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Military experiment demonstrates intersatellite laser communications in low Earth orbit
 - <a href="https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX already raising Falcon 9 rocket vertical for next Starlink launch
 - <a href="https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/" >🔗</a> **[SpaceNews]** Operational AST SpaceMobile satellites could proceed without prototype
 - <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions" >🔗</a> **[NASA]** NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions
-- <a href="http://www.nasa.gov/press-release/nasa-seeks-input-on-moon-to-mars-objectives-comments-due-may-31" >🔗</a> **[NASA]** NASA Seeks Input on Moon to Mars Objectives, Comments Due May 31
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T232306">2022-05-17 23:23:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T015120">2022-05-18 01:51:20 UTC</a>
   <br>
 </div>
