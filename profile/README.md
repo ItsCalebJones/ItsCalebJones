@@ -178,15 +178,15 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Starlink 4-18, third Starlink mission in five days
+- <a href="https://www.teslarati.com/spacex-21st-falcon-9-launch-2022/" >🔗</a> **[Teslarati]** SpaceX completes 21st launch and landing of 2022
+- <a href="https://spacenews.com/proposed-constellations-would-enhance-arctic-weather-observations/" >🔗</a> **[SpaceNews]** Proposed constellations would enhance Arctic weather observations
+- <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Starlink 4-18, third Starlink mission in five days
 - <a href="https://spacenews.com/nasa-confirms-impending-end-for-insight/" >🔗</a> **[SpaceNews]** NASA confirms impending end for InSight
 - <a href="https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite contractors team up to deal with supply shortages
-- <a href="https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Military experiment demonstrates intersatellite laser communications in low Earth orbit
-- <a href="https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX already raising Falcon 9 rocket vertical for next Starlink launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T111934">2022-05-18 11:19:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T124804">2022-05-18 12:48:04 UTC</a>
   <br>
 </div>
