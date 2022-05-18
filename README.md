@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/" >🔗</a> **[NASA Spaceflight]** SpaceX to launch Starlink 4-18, third Starlink mission in five days
+- <a href="https://spacenews.com/nasa-confirms-impending-end-for-insight/" >🔗</a> **[SpaceNews]** NASA confirms impending end for InSight
 - <a href="https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite contractors team up to deal with supply shortages
 - <a href="https://spacenews.com/military-experiment-demonstrates-intersatellite-laser-communications-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Military experiment demonstrates intersatellite laser communications in low Earth orbit
 - <a href="https://www.teslarati.com/spacex-starlink-4-18-falcon-9-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX already raising Falcon 9 rocket vertical for next Starlink launch
-- <a href="https://spacenews.com/operational-ast-spacemobile-satellites-could-proceed-without-prototype/" >🔗</a> **[SpaceNews]** Operational AST SpaceMobile satellites could proceed without prototype
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-for-cybersecurity-privacy-enterprise-solutions" >🔗</a> **[NASA]** NASA Awards Contract for Cybersecurity, Privacy Enterprise Solutions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T072228">2022-05-18 07:22:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T082831">2022-05-18 08:28:31 UTC</a>
   <br>
 </div>
