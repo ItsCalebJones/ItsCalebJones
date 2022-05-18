@@ -127,7 +127,7 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Bars-M No. 3</b> from Plesetsk Cosmodrome, Russian Federation to SSO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225444">2022-05-19 22:54:44 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225447">2022-05-19 22:54:47 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
@@ -178,15 +178,15 @@ The Bars-M satellites feature an electro-optical camera system called Karat, whi
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/" >🔗</a> **[SpaceNews]** Kongsberg orders spy satellites for Norwegian maritime surveillance
 - <a href="https://www.teslarati.com/spacex-21st-falcon-9-launch-2022/" >🔗</a> **[Teslarati]** SpaceX completes 21st launch and landing of 2022
 - <a href="https://spacenews.com/proposed-constellations-would-enhance-arctic-weather-observations/" >🔗</a> **[SpaceNews]** Proposed constellations would enhance Arctic weather observations
 - <a href="https://www.nasaspaceflight.com/2022/05/spacex-starlink-4-18/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Starlink 4-18, third Starlink mission in five days
 - <a href="https://spacenews.com/nasa-confirms-impending-end-for-insight/" >🔗</a> **[SpaceNews]** NASA confirms impending end for InSight
-- <a href="https://spacenews.com/space-development-agencys-satellite-contractors-team-up-to-deal-with-supply-shortages/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite contractors team up to deal with supply shortages
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T152514">2022-05-18 15:25:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220518T163655">2022-05-18 16:36:55 UTC</a>
   <br>
 </div>
