@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/" >🔗</a> **[SpaceNews]** Inmarsat uses ships as stepping stones in mesh network trial
 - <a href="https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/" >🔗</a> **[SpaceNews]** NASA seeks input on human exploration objectives
 - <a href="https://spacenews.com/ice-giants-and-icy-moons-the-planetary-science-decadal-survey-looks-beyond-mars-to-the-outer-solar-system/" >🔗</a> **[SpaceNews]** Ice giants and icy moons: The planetary science decadal survey looks beyond Mars to the outer solar system
 - <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
 - <a href="https://spacenews.com/u-s-space-force-to-step-up-protection-of-satellite-ground-systems-in-the-wake-of-russias-cyber-attacks/" >🔗</a> **[SpaceNews]** U.S. Space Force to step up protection of satellite ground systems in the wake of Russia’s cyber attacks
-- <a href="https://www.nasaspaceflight.com/2022/05/starliner-oft2-launch/" >🔗</a> **[NASA Spaceflight]** Starliner ready to try again with OFT-2 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T212131">2022-05-19 21:21:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T222156">2022-05-19 22:21:56 UTC</a>
   <br>
 </div>
