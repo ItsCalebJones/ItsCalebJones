@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-to-step-up-protection-of-satellite-ground-systems-in-the-wake-of-russias-cyber-attacks/" >🔗</a> **[SpaceNews]** U.S. Space Force to step up protection of satellite ground systems in the wake of Russia’s cyber attacks
+- <a href="https://www.nasaspaceflight.com/2022/05/starliner-oft2-launch/" >🔗</a> **[NASA Spaceflight]** Starliner ready to try again with OFT-2 launch
 - <a href="https://www.teslarati.com/tesla-model-x-refresh-2-year-wait-deliveries/" >🔗</a> **[Teslarati]** Some Tesla customers are now expecting a 2-year wait for their new Model X
 - <a href="http://www.nasa.gov/press-release/nasa-partners-offer-global-view-of-environmental-changes" >🔗</a> **[NASA]** NASA, Partners Offer Global View of Environmental Changes
 - <a href="https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/" >🔗</a> **[Arstechnica]** Today’s the day when Boeing’s Starliner takes to the skies. Probably
-- <a href="https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing set for second Starliner test flight
-- <a href="https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/" >🔗</a> **[Teslarati]** SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T175002">2022-05-19 17:50:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T183538">2022-05-19 18:35:38 UTC</a>
   <br>
 </div>
