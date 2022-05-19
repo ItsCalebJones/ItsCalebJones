@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://www.teslarati.com/tesla-model-x-refresh-2-year-wait-deliveries/" >🔗</a> **[Teslarati]** Some Tesla customers are now expecting a 2-year wait for their new Model X
 - <a href="http://www.nasa.gov/press-release/nasa-partners-offer-global-view-of-environmental-changes" >🔗</a> **[NASA]** NASA, Partners Offer Global View of Environmental Changes
 - <a href="https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/" >🔗</a> **[Arstechnica]** Today’s the day when Boeing’s Starliner takes to the skies. Probably
 - <a href="https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing set for second Starliner test flight
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/" >🔗</a> **[Teslarati]** SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster
-- <a href="https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/" >🔗</a> **[SpaceNews]** NASA puts ISS spacewalks on hold to investigate water leak
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T153530">2022-05-19 15:35:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T165552">2022-05-19 16:55:52 UTC</a>
   <br>
 </div>
