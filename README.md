@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-boeing-set-for-second-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA and Boeing set for second Starliner test flight
 - <a href="https://www.teslarati.com/spacex-super-heavy-booster-raptor-2-installation/" >🔗</a> **[Teslarati]** SpaceX begins installing new ‘Raptor 2’ engines on Super Heavy booster
 - <a href="https://spacenews.com/nasa-puts-iss-spacewalks-on-hold-to-investigate-water-leak/" >🔗</a> **[SpaceNews]** NASA puts ISS spacewalks on hold to investigate water leak
 - <a href="https://spacenews.com/military-buyers-challenged-to-stay-up-on-the-latest-commercial-space-innovations/" >🔗</a> **[SpaceNews]** Military buyers challenged to stay up on the latest commercial space innovations
 - <a href="https://spacenews.com/ball-and-raytheon-weather-instruments/" >🔗</a> **[SpaceNews]** Ball and Raytheon win weather instrument study contracts
-- <a href="https://spacenews.com/kongsberg-orders-spy-satellites-for-norwegian-maritime-surveillance/" >🔗</a> **[SpaceNews]** Kongsberg orders satellites for Norwegian maritime surveillance
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T112003">2022-05-19 11:20:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T124747">2022-05-19 12:47:47 UTC</a>
   <br>
 </div>
