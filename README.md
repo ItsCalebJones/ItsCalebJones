@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225447">2022-05-19 22:54:47 UTC</a>.  Until
-then, this pad will have been used for 104
-out of 842 launches from this location. The launch status is currently
+**Long March 2C / YZ-1S | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T102000">2022-05-20 10:20:00 UTC</a>.  Until
+then, this pad will have been used for 81
+out of 163 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown Orbit
+(-)*.
 <br>
 <blockquote>
-  This is the second uncrewed test flight for the Starliner spacecraft. Reflight of the OFT mission will allow Boeing to demonstrate readiness of the spacecraft and implement corrections to the problems which were found during the first OFT flight.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Atlas_V" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20220518150805.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="http://maps.google.com/maps?q=40.960556,100.298333" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
   </a>
 </p>
 
@@ -120,14 +120,9 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T225447">2022-05-19 22:54:47 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (OFT-2)</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T102000">2022-05-20 10:20:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C / YZ-1S | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C / YZ-1S | Unknown Payload</b> from Jiuquan, People's Republic of China to -.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>]</td>
@@ -176,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/" >🔗</a> **[SpaceNews]** Telesat tests LEO broadband prototype in India
 - <a href="https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/" >🔗</a> **[SpaceNews]** Inmarsat uses ships as stepping stones in mesh network trial
 - <a href="https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/" >🔗</a> **[SpaceNews]** NASA seeks input on human exploration objectives
 - <a href="https://spacenews.com/ice-giants-and-icy-moons-the-planetary-science-decadal-survey-looks-beyond-mars-to-the-outer-solar-system/" >🔗</a> **[SpaceNews]** Ice giants and icy moons: The planetary science decadal survey looks beyond Mars to the outer solar system
 - <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
-- <a href="https://spacenews.com/u-s-space-force-to-step-up-protection-of-satellite-ground-systems-in-the-wake-of-russias-cyber-attacks/" >🔗</a> **[SpaceNews]** U.S. Space Force to step up protection of satellite ground systems in the wake of Russia’s cyber attacks
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T222156">2022-05-19 22:21:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T232319">2022-05-19 23:23:19 UTC</a>
   <br>
 </div>
