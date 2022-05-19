@@ -130,7 +130,7 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C / YZ-1S | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182500">2022-05-25 18:25:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
 </tr>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="http://www.nasa.gov/press-release/nasa-partners-to-host-capstone-prelaunch-media-teleconference" >🔗</a> **[NASA]** NASA, Partners to Host CAPSTONE Prelaunch Media Teleconference
 - <a href="https://spacenews.com/u-s-space-force-to-step-up-protection-of-satellite-ground-systems-in-the-wake-of-russias-cyber-attacks/" >🔗</a> **[SpaceNews]** U.S. Space Force to step up protection of satellite ground systems in the wake of Russia’s cyber attacks
 - <a href="https://www.nasaspaceflight.com/2022/05/starliner-oft2-launch/" >🔗</a> **[NASA Spaceflight]** Starliner ready to try again with OFT-2 launch
-- <a href="https://www.teslarati.com/tesla-model-x-refresh-2-year-wait-deliveries/" >🔗</a> **[Teslarati]** Some Tesla customers are now expecting a 2-year wait for their new Model X
 - <a href="http://www.nasa.gov/press-release/nasa-partners-offer-global-view-of-environmental-changes" >🔗</a> **[NASA]** NASA, Partners Offer Global View of Environmental Changes
 - <a href="https://arstechnica.com/science/2022/05/todays-the-day-when-boeings-starliner-takes-to-the-skies-probably/" >🔗</a> **[Arstechnica]** Today’s the day when Boeing’s Starliner takes to the skies. Probably
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T183538">2022-05-19 18:35:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220519T191907">2022-05-19 19:19:07 UTC</a>
   <br>
 </div>
