@@ -147,6 +147,11 @@ into *a Sun-Synchronous Orbit
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T000000">2022-06-10 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-19</b> from Cape Canaveral, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T000000">2022-06-10 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Nilesat-301</b> from Cape Canaveral, FL, USA.</td>
 </tr>
 <tr>
@@ -161,15 +166,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/space-perspective-raises-17-million/" >🔗</a> **[SpaceNews]** Space Perspective raises $17 million
 - <a href="https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars into orbit, About those Raptor RUDs in Texas
+- <a href="https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2" >🔗</a> **[The Verge]** Boeing successfully launches Starliner spacecraft to orbit in do-over test flight
 - <a href="https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace raises $59.9 million in Series A round
 - <a href="http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa" >🔗</a> **[NASA]** Starliner Launches to Space Station on Uncrewed Flight Test for NASA
-- <a href="https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/" >🔗</a> **[SpaceNews]** Atlas 5 launches Starliner on second uncrewed test flight
-- <a href="https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/" >🔗</a> **[SpaceNews]** Telesat tests LEO broadband prototype in India
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T111920">2022-05-20 11:19:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T124514">2022-05-20 12:45:14 UTC</a>
   <br>
 </div>
