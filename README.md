@@ -171,15 +171,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
+- <a href="https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace raises $59.9 million in Series A round
 - <a href="http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa" >🔗</a> **[NASA]** Starliner Launches to Space Station on Uncrewed Flight Test for NASA
 - <a href="https://spacenews.com/atlas-5-launches-starliner-on-second-uncrewed-test-flight/" >🔗</a> **[SpaceNews]** Atlas 5 launches Starliner on second uncrewed test flight
 - <a href="https://spacenews.com/telesat-tests-leo-broadband-prototype-in-india/" >🔗</a> **[SpaceNews]** Telesat tests LEO broadband prototype in India
 - <a href="https://spacenews.com/inmarsat-uses-ships-as-stepping-stones-in-mesh-network-trial/" >🔗</a> **[SpaceNews]** Inmarsat uses ships as stepping stones in mesh network trial
-- <a href="https://spacenews.com/nasa-seeks-input-on-human-exploration-objectives/" >🔗</a> **[SpaceNews]** NASA seeks input on human exploration objectives
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T072238">2022-05-20 07:22:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T082914">2022-05-20 08:29:14 UTC</a>
   <br>
 </div>
