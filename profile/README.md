@@ -125,11 +125,6 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T000000">2022-05-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T133000">2022-05-31 13:30:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>New Shepard | NS-21</b> from Corn Ranch, USA to Sub.</td>
@@ -138,6 +133,16 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093200">2022-06-03 09:32:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220605T000000">2022-06-05 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2F/G | Shenzhou 14</b> from Jiuquan, People's Republic of China to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T000000">2022-06-06 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T153000">2022-06-07 15:30:00 UTC</a>]</td>
@@ -166,15 +171,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/space-perspective-raises-17-million/" >🔗</a> **[SpaceNews]** Space Perspective raises $17 million
-- <a href="https://arstechnica.com/science/2022/05/rocket-report-starliner-soars-into-orbit-about-those-raptor-ruds-in-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Starliner soars into orbit; about those Raptor RUDs in Texas
-- <a href="https://www.theverge.com/2022/5/19/23131232/boeing-cst-100-starliner-launch-success-iss-nasa-oft-2" >🔗</a> **[The Verge]** Boeing successfully launches Starliner spacecraft to orbit in do-over test flight
-- <a href="https://spacenews.com/chinese-launch-startup-orienspace-raises-59-9-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Chinese launch startup Orienspace raises $59.9 million in Series A round
-- <a href="http://www.nasa.gov/press-release/starliner-launches-to-space-station-on-uncrewed-flight-test-for-nasa" >🔗</a> **[NASA]** Starliner Launches to Space Station on Uncrewed Flight Test for NASA
+- <a href="https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/" >🔗</a> **[SpaceNews]** Military looking for new ways to acquire and use commercial satellite data
+- <a href="https://spacenews.com/starliner-launches-to-remain-on-atlas-5/" >🔗</a> **[SpaceNews]** Starliner launches to remain on Atlas 5
+- <a href="https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/" >🔗</a> **[SpaceNews]** NASA plans early June rollout of SLS for next countdown test
+- <a href="https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner capsule completes first “nail-biting” docking at space station
+- <a href="https://www.nasaspaceflight.com/2022/05/oft-2-docking/" >🔗</a> **[NASA Spaceflight]** Starliner makes first docking with ISS on OFT-2 mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220520T191819">2022-05-20 19:18:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T051845">2022-05-23 05:18:45 UTC</a>
   <br>
 </div>
