@@ -145,7 +145,7 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T153000">2022-06-07 15:30:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T144500">2022-06-09 14:45:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
@@ -164,6 +164,11 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg"/> <b>Nuri | Flight Test 2</b> from Naro Space Center, South Korea to SSO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Ariane 5 ECA+ | Measat-3d & GSAT 24</b> from Kourou, French Guiana to GTO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -171,15 +176,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/military-looking-for-new-ways-to-acquire-and-use-commercial-satellite-data/" >🔗</a> **[SpaceNews]** Military looking for new ways to acquire and use commercial satellite data
-- <a href="https://spacenews.com/starliner-launches-to-remain-on-atlas-5/" >🔗</a> **[SpaceNews]** Starliner launches to remain on Atlas 5
-- <a href="https://spacenews.com/nasa-plans-early-june-rollout-of-sls-for-next-countdown-test/" >🔗</a> **[SpaceNews]** NASA plans early June rollout of SLS for next countdown test
-- <a href="https://spaceflightnow.com/2022/05/21/boeings-starliner-capsule-completes-first-nail-biting-docking-at-space-station/" >🔗</a> **[Spaceflight Now]** Boeing’s Starliner capsule completes first “nail-biting” docking at space station
-- <a href="https://www.nasaspaceflight.com/2022/05/oft-2-docking/" >🔗</a> **[NASA Spaceflight]** Starliner makes first docking with ISS on OFT-2 mission
+- <a href="https://spacenews.com/advice-for-entrepreneurs/" >🔗</a> **[SpaceNews]** Experts offer advice for space sector entrepreneurs
+- <a href="https://spacenews.com/ssc-front-door-pathways/" >🔗</a> **[SpaceNews]** Space Systems Command refines front-door concept
+- <a href="https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/" >🔗</a> **[Teslarati]** NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Sciences
+- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Science
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220523T051845">2022-05-23 05:18:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T051722">2022-05-25 05:17:22 UTC</a>
   <br>
 </div>
