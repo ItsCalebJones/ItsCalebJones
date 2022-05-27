@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+**New Shepard | NS-21**. It is scheduled to be launched by *Blue Origin*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>.  Until
-then, this pad will have been used for 142
-out of 843 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T133000">2022-05-31 13:30:00 UTC</a>.  Until
+then, this pad will have been used for 20
+out of 20 launches from this location. The launch status is currently
+*TBD* 🟧 . The mission type is
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Transporter 5 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  NS-20 is the fifth crewed New Shepard flight, carrying six passengers.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg" />
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.56194122,-80.57735736" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg"  />
   </a>
 </p>
 
@@ -119,11 +119,6 @@ into *a Sun-Synchronous Orbit
       </tr>
     </thead>
     <tbody>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T182700">2022-05-25 18:27:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Transporter 5 (Dedicated SSO Rideshare)</b> from Cape Canaveral, FL, USA to SSO.</td>
-</tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T133000">2022-05-31 13:30:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
@@ -140,8 +135,8 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2F/G | Shenzhou 14</b> from Jiuquan, People's Republic of China to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T000000">2022-06-06 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T092000">2022-06-06 09:20:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
@@ -150,13 +145,8 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T000000">2022-06-10 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-19</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T000000">2022-06-10 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T050000">2022-06-10 05:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Nilesat-301</b> from Cape Canaveral, FL, USA.</td>
 </tr>
 <tr>
@@ -176,15 +166,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/advice-for-entrepreneurs/" >🔗</a> **[SpaceNews]** Experts offer advice for space sector entrepreneurs
-- <a href="https://spacenews.com/ssc-front-door-pathways/" >🔗</a> **[SpaceNews]** Space Systems Command refines front-door concept
-- <a href="https://www.teslarati.com/spacex-crew-dragon-heat-shield-nasa-denies-propellant-leak-report/" >🔗</a> **[Teslarati]** NASA denies SpaceX Crew Dragon propellant leak report, reveals unrelated heat shield defect
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-sciences" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Sciences
-- <a href="http://www.nasa.gov/press-release/nasa-awards-contract-to-national-academy-of-science" >🔗</a> **[NASA]** NASA Awards Contract to National Academy of Science
+- <a href="http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking" >🔗</a> **[NASA]** NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking
+- <a href="https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/" >🔗</a> **[SpaceNews]** General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation
+- <a href="https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/" >🔗</a> **[SpaceNews]** Space Force rolls out cybersecurity standards for commercial providers of satellite services
+- <a href="http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration" >🔗</a> **[NASA]** NASA Supports Small Business Research to Power Future Exploration
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220525T051722">2022-05-25 05:17:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T051736">2022-05-27 05:17:36 UTC</a>
   <br>
 </div>
