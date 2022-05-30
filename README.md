@@ -125,7 +125,7 @@ into *a Suborbital
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>New Shepard | NS-21</b> from Corn Ranch, USA to Sub.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093200">2022-06-03 09:32:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093254">2022-06-03 09:32:54 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan to LEO.</td>
 </tr>
@@ -140,14 +140,14 @@ into *a Suborbital
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T210300">2022-06-07 21:03:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Nilesat-301</b> from Cape Canaveral, FL, USA.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T144500">2022-06-09 14:45:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T050000">2022-06-10 05:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Nilesat-301</b> from Cape Canaveral, FL, USA.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a>]</td>
@@ -159,6 +159,16 @@ into *a Suborbital
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Ariane 5 ECA+ | Measat-3d & GSAT 24</b> from Kourou, French Guiana to GTO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T000000">2022-06-28 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | SES-22</b> from Cape Canaveral, FL, USA to GTO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T000000">2022-06-29 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 541 | USSF-12</b> from Cape Canaveral, FL, USA.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -166,15 +176,15 @@ into *a Suborbital
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-to-pick-next-generation-spacesuits-for-moonwalking-spacewalking" >🔗</a> **[NASA]** NASA to Pick Next Generation Spacesuits for Moonwalking, Spacewalking
-- <a href="https://spacenews.com/general-dynamics-wins-ground-systems-contract-for-space-development-agencys-megaconstellation/" >🔗</a> **[SpaceNews]** General Dynamics wins ground systems contract for Space Development Agency’s megaconstellation
-- <a href="https://spacenews.com/space-force-rolls-out-cybersecurity-standards-for-commercial-providers-of-satellite-services/" >🔗</a> **[SpaceNews]** Space Force rolls out cybersecurity standards for commercial providers of satellite services
-- <a href="http://www.nasa.gov/press-release/nasa-supports-small-business-research-to-power-future-exploration" >🔗</a> **[NASA]** NASA Supports Small Business Research to Power Future Exploration
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-launch-delay/" >🔗</a> **[Teslarati]** No SpaceX Falcon Heavy payload is safe as NASA Psyche mission announces delay
+- <a href="https://spacenews.com/china-rolls-out-rocket-for-shenzhou-14-crewed-mission/" >🔗</a> **[SpaceNews]** China rolls out rocket for Shenzhou-14 crewed mission
+- <a href="https://spacenews.com/next-sls-countdown-rehearsal-scheduled-for-june-19/" >🔗</a> **[SpaceNews]** Next SLS countdown rehearsal scheduled for June 19
+- <a href="https://www.nasaspaceflight.com/2022/05/kplo-name-testing/" >🔗</a> **[NASA Spaceflight]** KARI names KPLO as it begins communication testing
+- <a href="https://spacenews.com/nasa-to-reexamine-space-based-solar-power/" >🔗</a> **[SpaceNews]** NASA to reexamine space-based solar power
+- <a href="https://spacenews.com/starlink-approved-in-nigeria-and-mozambique-says-elon-musk/" >🔗</a> **[SpaceNews]** Starlink approved in Nigeria and Mozambique, says Elon Musk
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220527T051736">2022-05-27 05:17:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220530T052205">2022-05-30 05:22:05 UTC</a>
   <br>
 </div>
