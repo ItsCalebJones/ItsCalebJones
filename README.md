@@ -87,7 +87,7 @@ The next space launch, retrieved from The Space Devs
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093254">2022-06-03 09:32:54 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093216">2022-06-03 09:32:16 UTC</a>.  Until
 then, this pad will have been used for 401
 out of 1531 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -120,7 +120,7 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093254">2022-06-03 09:32:54 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T093216">2022-06-03 09:32:16 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a | Progress MS-20 (81P)</b> from Baikonur Cosmodrome, Republic of Kazakhstan to LEO.</td>
 </tr>
@@ -135,18 +135,18 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2F/G | Shenzhou 14</b> from Jiuquan, People's Republic of China to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T210300">2022-06-07 21:03:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T210300">2022-06-08 21:03:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Nilesat-301</b> from Cape Canaveral, FL, USA.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220609T144500">2022-06-09 14:45:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T142200">2022-06-10 14:22:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T000000">2022-06-13 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T090300">2022-06-13 09:03:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
@@ -165,9 +165,9 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Ariane 5 ECA+ | Measat-3d & GSAT 24</b> from Kourou, French Guiana to GTO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T000000">2022-06-28 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T120000">2022-06-26 12:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | SES-22</b> from Cape Canaveral, FL, USA to GTO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>PSLV | TDS-01</b> from Sriharikota, Republic of India to GSTO.</td>
 </tr>
 
 </tbody>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://www.teslarati.com/spacex-starbase-environmental-review-fifth-delay-progress/" >🔗</a> **[Teslarati]** SpaceX’s Starbase environmental review is inches from the finish line
-- <a href="http://www.nasa.gov/press-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Space Station Cargo Launch, Docking
-- <a href="https://spacenews.com/astrocast-buying-hiber-to-boost-funding-and-expansion-plans/" >🔗</a> **[SpaceNews]** Astrocast buying Hiber to boost funding and expansion plans
-- <a href="https://arstechnica.com/science/2022/05/astroforge-aims-to-succeed-where-other-asteroid-mining-companies-have-failed/" >🔗</a> **[Arstechnica]** AstroForge aims to succeed where other asteroid mining companies have failed
-- <a href="https://spacenews.com/sierra-space-to-partner-with-spirit-aerosystems-on-dream-chaser-cargo-modules/" >🔗</a> **[SpaceNews]** Sierra Space to partner with Spirit AeroSystems on Dream Chaser cargo modules
+- <a href="https://spaceflightnow.com/2022/06/03/soyuz-progress-ms-20-launch-docking/" >🔗</a> **[Spaceflight Now]** Russian Soyuz rocket poised for launch with space station cargo freighter
+- <a href="https://arstechnica.com/science/2022/06/nasa-just-bought-all-the-seats-needed-for-space-station-crews-into-2030/" >🔗</a> **[Arstechnica]** NASA just bought the rest of the space station crew flights from SpaceX
+- <a href="http://www.nasa.gov/press-release/nasa-funds-projects-that-aim-to-inspire-artemis-generation" >🔗</a> **[NASA]** NASA Funds Projects that Aim to Inspire Artemis Generation
+- <a href="https://spacenews.com/nasa-to-buy-five-additional-crew-dragon-flights/" >🔗</a> **[SpaceNews]** NASA to buy five additional Crew Dragon flights
+- <a href="http://www.nasa.gov/press-release/nasa-selects-new-instruments-for-priority-artemis-science-on-moon" >🔗</a> **[NASA]** NASA Selects New Instruments for Priority Artemis Science on Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220601T054219">2022-06-01 05:42:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220603T051201">2022-06-03 05:12:01 UTC</a>
   <br>
 </div>
