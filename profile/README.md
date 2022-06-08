@@ -90,7 +90,7 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T210400">2022-06-08 21:04:00 UTC</a>.  Until
 then, this pad will have been used for 143
 out of 844 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Geostationary Orbit
 (Direct-GEO)*.
@@ -121,13 +121,13 @@ into *a Geostationary Orbit
     <tbody>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T210400">2022-06-08 21:04:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Nilesat-301</b> from Cape Canaveral, FL, USA to Direct-GEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220610T142200">2022-06-10 14:22:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220612T000000">2022-06-12 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Astra Rocket 3 | TROPICS 1 & 2</b> from Cape Canaveral, FL, USA.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T090300">2022-06-13 09:03:00 UTC</a>]</td>
@@ -160,14 +160,14 @@ into *a Geostationary Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | SES-22</b> from Cape Canaveral, FL, USA to GTO.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T070000">2022-06-28 07:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T000000">2022-06-29 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 541 | USSF-12</b> from Cape Canaveral, FL, USA.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T030000">2022-06-29 03:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>LauncherOne | Straight Up</b> from Air launch to orbit to LEO.</td>
 </tr>
 
 </tbody>
@@ -176,15 +176,15 @@ into *a Geostationary Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/06/06/artemis-1-wdr-rollout-2/" >🔗</a> **[Spaceflight Now]** NASA teams ready SLS moon rocket for return to launch pad
-- <a href="https://www.teslarati.com/spacex-elon-musk-all-hands-meeting-starship-starlink-falcon-2022/" >🔗</a> **[Teslarati]** SpaceX CEO Elon Musk teases next-gen Starlink satellites, Starship factories
-- <a href="https://www.nasaspaceflight.com/2022/06/nasa-rolling-artemis-1-back-to-the-pad-to-finish-wdr/" >🔗</a> **[NASA Spaceflight]** NASA rolling Artemis 1 back to the pad to finish WDR
-- <a href="https://spacenews.com/commercial-providers-of-satellite-services-face-a-trust-gap-with-military-buyers/" >🔗</a> **[SpaceNews]** Commercial providers of satellite services face a trust gap with military buyers
-- <a href="https://spacenews.com/blue-canyon-looks-to-demonstrate-small-satellite-performance-at-very-low-altitude/" >🔗</a> **[SpaceNews]** Blue Canyon looks to demonstrate small-satellite performance at very low altitude
+- <a href="https://spacenews.com/elon-musk-reportedly-extends-timeline-for-potential-starlink-ipo/" >🔗</a> **[SpaceNews]** Elon Musk reportedly extends timeline for potential Starlink IPO
+- <a href="https://www.teslarati.com/spacex-falcon-9-egyptian-satellite-nilesat-301-launch-webcast/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 rocket set to launch Egyptian communications satellite
+- <a href="https://spacenews.com/xona-to-test-gps-alternative-demo-satellite-with-customer/" >🔗</a> **[SpaceNews]** Xona to test GPS-alternative demo satellite with customer
+- <a href="http://www.nasa.gov/press-release/nasa-to-inflate-heat-shield-on-earth-before-spaceflight-demo" >🔗</a> **[NASA]** NASA to Inflate Heat Shield on Earth Before Spaceflight Demo
+- <a href="https://spaceflightnow.com/2022/06/07/globalstar-spare-satellite-to-launch-on-spacex-rocket-this-month/" >🔗</a> **[Spaceflight Now]** Globalstar spare satellite to launch on SpaceX rocket this month
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220606T051347">2022-06-06 05:13:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220608T051154">2022-06-08 05:11:54 UTC</a>
   <br>
 </div>
