@@ -87,7 +87,7 @@ The next space launch, retrieved from The Space Devs
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Naro_Space_Center">LC-2</a>, Naro Space Center, South Korea*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T060000">2022-06-16 06:00:00 UTC</a>.  Until
 then, this pad will have been used for 1
 out of 4 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -120,12 +120,12 @@ into *a Sun-Synchronous Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T060000">2022-06-15 06:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220616T060000">2022-06-16 06:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg"/> <b>Nuri | Flight Test 2</b> from Naro Space Center, South Korea to SSO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T145000">2022-06-17 14:50:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-19</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
@@ -136,7 +136,7 @@ into *a Sun-Synchronous Orbit
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T043000">2022-06-19 04:30:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Globalstar-2 FM15 & others</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
@@ -150,13 +150,8 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T070000">2022-06-28 07:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T230000">2022-06-28 23:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T210400">2022-06-28 21:04:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | SES-22</b> from Cape Canaveral, FL, USA to GTO.</td>
 </tr>
 <tr>
@@ -169,6 +164,11 @@ into *a Sun-Synchronous Orbit
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>RS1 | Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Terran 1 | Maiden Flight</b> from Cape Canaveral, FL, USA to LEO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -176,15 +176,15 @@ into *a Sun-Synchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/06/12/photos-artemis-1-rocket-hauled-to-launch-pad-for-another-countdown-rehearsal/" >🔗</a> **[Spaceflight Now]** Photos: Artemis 1 rocket hauled to launch pad for another countdown rehearsal
-- <a href="https://spaceflightnow.com/2022/06/12/two-hurricane-research-satellites-lost-in-astra-launch-failure/" >🔗</a> **[Spaceflight Now]** Two hurricane research satellites lost in Astra launch failure
-- <a href="https://spacenews.com/astra-launch-of-nasa-tropics-cubesats-fails/" >🔗</a> **[SpaceNews]** Astra launch of NASA TROPICS cubesats fails
-- <a href="https://www.nasaspaceflight.com/2022/06/astra-tropics-1/" >🔗</a> **[NASA Spaceflight]** Astra launch fails on first TROPICS flight for NASA
-- <a href="https://spacenews.com/dod-space-agency-to-acquire-10-satellites-for-experiments-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** DoD space agency to acquire 10 satellites for experiments in low Earth orbit
+- <a href="https://spacenews.com/momentus-increasingly-pessimistic-about-first-vigoride-mission/" >🔗</a> **[SpaceNews]** Momentus increasingly pessimistic about first Vigoride mission
+- <a href="https://spaceflightnow.com/2022/06/14/momentus-orbital-transfer-vehicle-suffers-power-problem-after-launch/" >🔗</a> **[Spaceflight Now]** Momentus orbital transfer vehicle suffers power problem after launch
+- <a href="https://spacenews.com/starlink-and-oneweb-reach-spectrum-coordination-plan/" >🔗</a> **[SpaceNews]** Starlink and OneWeb reach spectrum coordination plan
+- <a href="https://spacenews.com/aerospacelab-factory-charleroi/" >🔗</a> **[SpaceNews]** Aerospacelab to build “megafactory” in Belgium
+- <a href="https://www.nasaspaceflight.com/2022/06/osiris-rex-update/" >🔗</a> **[NASA Spaceflight]** Lockheed talks OSIRIS-REx success, readiness for APEX mission to Apophis
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220613T051738">2022-06-13 05:17:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220615T051605">2022-06-15 05:16:05 UTC</a>
   <br>
 </div>
