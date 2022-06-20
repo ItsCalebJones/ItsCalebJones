@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 4-19**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>.  Until
-then, this pad will have been used for 145
-out of 202 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+**Nuri | Flight Test 2**. It is scheduled to be launched by *Korea Aerospace Research Institute*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Naro_Space_Center">LC-2</a>, Naro Space Center, South Korea*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T060000">2022-06-21 06:00:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 4 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Second flight of the KSLV-II "Nuri" launch vehicle, carrying a dummy Payload of 1500 kg to sun-synchronous orbit.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220520120044.png" />
+  <a href="https://en.wikipedia.org/wiki/KSLV-2" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/nuri_image_20211020165148.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.608+N,+80.604+W" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg"  />
+  <a href="https://maps.google.com/maps?q=34.431867,127.535069" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_9_20200803142441.jpg"  />
   </a>
 </p>
 
@@ -120,19 +120,9 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T160850">2022-06-17 16:08:50 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-19</b> from Kennedy Space Center, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220618T141900">2022-06-18 14:19:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | SARah 1</b> from Vandenberg SFB, CA, USA to SSO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220619T042700">2022-06-19 04:27:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T060000">2022-06-21 06:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Globalstar-2 FM15 & others</b> from Cape Canaveral, FL, USA to LEO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg"/> <b>Nuri | Flight Test 2</b> from Naro Space Center, South Korea to SSO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>]</td>
@@ -143,6 +133,11 @@ into *a Low Earth Orbit
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T100000">2022-06-25 10:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T004300">2022-06-26 00:43:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-21</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T210400">2022-06-28 21:04:00 UTC</a>]</td>
@@ -169,6 +164,11 @@ into *a Low Earth Orbit
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>SSLV | EOS-02 (Microsat-2A) (Demo 1)</b> from Sriharikota, Republic of India to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -176,15 +176,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/nasa-assigns-two-astronauts-to-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA assigns two astronauts to Starliner test flight
-- <a href="https://spacenews.com/senate-armed-services-committee-proposes-dod-funding-boost-for-2023/" >🔗</a> **[SpaceNews]** Senate Armed Services Committee proposes DoD funding boost for 2023
-- <a href="https://arstechnica.com/science/2022/06/europes-major-new-rocket-the-ariane-6-is-delayed-again/" >🔗</a> **[Arstechnica]** Europe’s major new rocket, the Ariane 6, is delayed again
-- <a href="http://www.nasa.gov/press-release/nasa-updates-astronaut-assignments-for-boeing-starliner-test-flight" >🔗</a> **[NASA]** NASA Updates Astronaut Assignments for Boeing Starliner Test Flight
-- <a href="https://spacenews.com/quadsat-gets-esa-funding-for-ready-to-fly-antenna-testing-kits/" >🔗</a> **[SpaceNews]** Quadsat gets ESA funding for ready-to-fly antenna testing kits
+- <a href="https://www.teslarati.com/spacex-three-falcon-9-rocket-launches-36-hours/" >🔗</a> **[Teslarati]** SpaceX launches three Falcon 9 rockets in 36 hours
+- <a href="https://www.nasaspaceflight.com/2022/06/hubble-dead-star-destroying-system/" >🔗</a> **[NASA Spaceflight]** Researchers use Hubble to observe dead star destroying planetary system
+- <a href="https://spacenews.com/spacex-performs-three-launches-within-two-days-amid-internal-dissent/" >🔗</a> **[SpaceNews]** SpaceX performs three launches within two days amid internal dissent
+- <a href="https://spaceflightnow.com/2022/06/19/spacex-launches-third-falcon-9-rocket-in-less-than-two-days/" >🔗</a> **[Spaceflight Now]** SpaceX launches third Falcon 9 rocket in less than two days
+- <a href="https://www.nasaspaceflight.com/2022/06/spacex-globalstar-falcon-9/" >🔗</a> **[NASA Spaceflight]** SpaceX launches Globalstar satellite on mysterious Falcon 9 mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220617T051449">2022-06-17 05:14:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220620T051135">2022-06-20 05:11:35 UTC</a>
   <br>
 </div>
