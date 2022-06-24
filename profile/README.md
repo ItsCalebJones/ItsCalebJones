@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ariane 5 ECA+ | Measat-3d & GSAT 24**. It is scheduled to be launched by *Arianespace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
-from *<a href="http://en.wikipedia.org/wiki/ELA-3">Ariane Launch Area 3</a>, Kourou, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>.  Until
-then, this pad will have been used for 113
-out of 312 launches from this location. The launch status is currently
+**Electron | CAPSTONE**. It is scheduled to be launched by *Rocket Lab Ltd*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T095000">2022-06-27 09:50:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 26 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+*Planetary Science* and the payload will be injected
+into *a Lunar Orbit
+(LO)*.
 <br>
 <blockquote>
-  Measat-3d is a Malaysian geostationary communications satellite built by Airbus Space Systems. GSAT 24 is a communications satellite of the Indian Space Research Organization.
+  CAPSTONE (Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment) is a 12-U cubesat mission to test operations in near rectiliniar halo orbit around the Moon, which is to be used for the Lunar Gateway space station. Mission will verify the  near rectilinear halo orbit characteristics, spacecraft-to-spacecraft navigation services in that orbit, and provide valuable experience of small sat launch to the Moon.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_5" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/?q=5.239,-52.769" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
@@ -120,24 +120,14 @@ into *a Geostationary Transfer Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T210300">2022-06-22 21:03:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Ariane 5 ECA+ | Measat-3d & GSAT 24</b> from Kourou, French Guiana to GTO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220623T021100">2022-06-23 02:11:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Xichang Satellite Launch Center, People's Republic of China.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220625T100000">2022-06-25 10:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T095000">2022-06-27 09:50:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | CAPSTONE</b> from Onenui Station, Mahia Peninsula, New Zealand to LO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220626T004300">2022-06-26 00:43:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-21</b> from Kennedy Space Center, FL, USA to LEO.</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220627T153700">2022-06-27 15:37:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 4C | Unknown Payload</b> from Jiuquan, People's Republic of China.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T210400">2022-06-28 21:04:00 UTC</a>]</td>
@@ -145,29 +135,39 @@ into *a Geostationary Transfer Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | SES-22</b> from Cape Canaveral, FL, USA to GTO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220629T000000">2022-06-29 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 541 | USSF-12</b> from Cape Canaveral, FL, USA to GSO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>RS1 | Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Terran 1 | Maiden Flight</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>SSLV | EOS-02 (Microsat-2A) (Demo 1)</b> from Sriharikota, Republic of India to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T000000">2022-06-30 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T050000">2022-06-30 05:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>LauncherOne | Straight Up</b> from Air launch to orbit to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220630T123000">2022-06-30 12:30:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>PSLV-CA | DS-EO & others</b> from Sriharikota, Republic of India to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T040000">2022-07-07 04:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Vega-C | LARES-2 (Maiden flight)</b> from Kourou, French Guiana to MEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-21</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 
 </tbody>
@@ -176,15 +176,15 @@ into *a Geostationary Transfer Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/first-collegiate-smallsat-c/" >🔗</a> **[SpaceNews]** SmallSat Alliance unveils Collegiate Space Competition
-- <a href="https://spacenews.com/spacex-warns-5g-plan-would-deny-starlink-to-most-americans/" >🔗</a> **[SpaceNews]** SpaceX warns 5G plan would deny Starlink to most Americans
-- <a href="https://mars.nasa.gov/news/9207/" >🔗</a> **[NASA]** NASA's InSight Gets a Few Extra Weeks of Mars Science
-- <a href="https://arstechnica.com/science/2022/06/nasa-almost-finishes-a-critical-fueling-test-of-the-sls-rocket/" >🔗</a> **[Arstechnica]** NASA counts down to within 29 seconds of launching the large SLS rocket
-- <a href="https://spacenews.com/house-appropriations-committee-warns-of-cost-pressures-in-space-force-programs/" >🔗</a> **[SpaceNews]** House Appropriations Committee warns of cost pressures in Space Force programs
+- <a href="https://spacenews.com/oneweb-to-resume-launches-in-fourth-quarter/" >🔗</a> **[SpaceNews]** OneWeb to resume launches in fourth quarter
+- <a href="https://mars.nasa.gov/news/9211/" >🔗</a> **[NASA]** NASA Mars Orbiter Releasing One of Its Last Rainbow-Colored Maps
+- <a href="http://www.nasa.gov/press-release/nasa-sets-live-launch-coverage-for-capstone-mission-to-moon" >🔗</a> **[NASA]** NASA Sets Live Launch Coverage for CAPSTONE Mission to Moon
+- <a href="https://spacenews.com/satixfy-names-ceo-to-lead-its-public-company-transformation/" >🔗</a> **[SpaceNews]** SatixFy names CEO to lead its public company transformation
+- <a href="https://spacenews.com/hughes-and-oneweb-deploy-high-speed-internet-for-u-s-military-at-remote-arctic-base/" >🔗</a> **[SpaceNews]** Hughes and OneWeb deploy high-speed internet for U.S. military at remote Arctic base
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220622T051615">2022-06-22 05:16:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220624T051745">2022-06-24 05:17:45 UTC</a>
   <br>
 </div>
