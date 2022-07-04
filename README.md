@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V 541 | USSF-12**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T220000">2022-07-01 22:00:00 UTC</a>.  Until
-then, this pad will have been used for 105
-out of 848 launches from this location. The launch status is currently
+**Black Brant IX | SISTINE**. It is scheduled to be launched by *Equatorial Launch Australia*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a>, Arnhem Space Centre*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T105400">2022-07-05 10:54:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 1 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Geosynchronous Orbit
-(GSO)*.
+*Astrophysics* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Two US national security payloads. The first is the Space Force's Wide Field of View (WFOV) Testbed satellite, the second is a multi-manifest satellite for the Department of Defense (DoD).
+  The Suborbital Imaging Spectrograph for Transition region Irradiance from Nearby Exoplanet host stars (SISTINE) is a payload from the University of Colorado. Its objective is to study how light from stars affects the atmospheres of the planets around them, including the gases thought to be signs of life. For this flight, it will measure the ultraviolet light output from α Centauri A and B, two stars of the three-star α Centauri system that are the closest stars to our Sun.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20220629172200.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Black_Brant_(rocket)#Black_Brant_IX" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg" />
   </a>
-  <a href="http://maps.google.com/maps?q=28.58341025,-80.58303644" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg"  />
+  <a href="http://maps.google.com/maps?q=-12.3892948,136.7903215" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_arnhem_space_centre_20220622160552.jpg"  />
   </a>
 </p>
 
@@ -120,17 +120,7 @@ into *a Geosynchronous Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T220000">2022-07-01 22:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 541 | USSF-12</b> from Cape Canaveral, FL, USA to GSO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220702T050000">2022-07-02 05:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/International_Flag_of_Planet_Earth.svg"/> <b>LauncherOne | Straight Up</b> from Air launch to orbit to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T105400">2022-07-04 10:54:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T105400">2022-07-05 10:54:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg"/> <b>Black Brant IX | SISTINE</b> from Arnhem Space Centre to Sub.</td>
 </tr>
@@ -140,19 +130,19 @@ into *a Geosynchronous Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Vega-C | LARES-2 (Maiden flight)</b> from Kourou, French Guiana to MEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T223000">2022-07-07 22:30:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T130000">2022-07-07 13:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-21</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T000000">2022-07-08 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-1</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T000000">2022-07-10 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-22</b> from Cape Canaveral, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T000000">2022-07-11 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-1</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T105700">2022-07-12 10:57:00 UTC</a>]</td>
@@ -169,6 +159,16 @@ into *a Geosynchronous Orbit
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-2</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T003000">2022-07-15 00:30:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T000000">2022-07-17 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Firefly Alpha | Flight Two</b> from Vandenberg SFB, CA, USA to LEO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -176,15 +176,15 @@ into *a Geosynchronous Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://www.teslarati.com/spacex-cargo-dragon-launch-slips-to-mid-july/" >🔗</a> **[Teslarati]** SpaceX Cargo Dragon launch slips to mid-July
-- <a href="http://www.nasa.gov/press-release/nasa-awards-engineering-technology-science-contract" >🔗</a> **[NASA]** NASA Awards Engineering, Technology, Science Contract
-- <a href="http://www.nasa.gov/press-release/florida-students-to-hear-from-nasa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Florida Students to Hear from NASA Astronauts Aboard Space Station
-- <a href="https://www.nasaspaceflight.com/2022/06/atlas-v-ussf-12/" >🔗</a> **[NASA Spaceflight]** Atlas V launch with two experimental military satellites delayed due to weather
-- <a href="https://spacenews.com/china-looks-to-launch-liquid-propellant-rockets-from-the-seas/" >🔗</a> **[SpaceNews]** China looks to launch liquid propellant rockets from the seas
+- <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
+- <a href="https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/" >🔗</a> **[NASA Spaceflight]** Lucy continues to stabilize its solar array before its October flyby
+- <a href="https://www.teslarati.com/spacex-starship-super-heavy-39-raptors-installed/" >🔗</a> **[Teslarati]** SpaceX outfits Starship, Super Heavy with dozens of Raptor engines
+- <a href="https://spacenews.com/new-zealand-joins-asat-testing-ban/" >🔗</a> **[SpaceNews]** New Zealand joins ASAT testing ban
+- <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter discussions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220701T052939">2022-07-01 05:29:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T052411">2022-07-04 05:24:11 UTC</a>
   <br>
 </div>
