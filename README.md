@@ -87,10 +87,10 @@ The next space launch, retrieved from The Space Devs
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a>, Arnhem Space Centre*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T105400">2022-07-05 10:54:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T105400">2022-07-06 10:54:00 UTC</a>.  Until
 then, this pad will have been used for 1
 out of 1 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBD* 🟧 . The mission type is
 *Astrophysics* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -120,14 +120,14 @@ into *a Suborbital
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T105400">2022-07-05 10:54:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T105400">2022-07-06 10:54:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg"/> <b>Black Brant IX | SISTINE</b> from Arnhem Space Centre to Sub.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T111300">2022-07-07 11:13:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T080000">2022-07-07 08:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Vega-C | LARES-2 (Maiden flight)</b> from Kourou, French Guiana to MEO.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1b/Fregat | Glonass-K1</b> from Plesetsk Cosmodrome, Russian Federation.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T130000">2022-07-07 13:00:00 UTC</a>]</td>
@@ -135,19 +135,24 @@ into *a Suborbital
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-21</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220710T000000">2022-07-10 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-22</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T000000">2022-07-11 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-1</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T050000">2022-07-12 05:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Wise One Looks Ahead (NROL-162)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T105700">2022-07-12 10:57:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg"/> <b>Black Brant IX | DEUCE</b> from Arnhem Space Centre to Sub.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111300">2022-07-13 11:13:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Vega-C | LARES-2 (Maiden flight)</b> from Kourou, French Guiana to MEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T000000">2022-07-14 00:00:00 UTC</a>]</td>
@@ -164,11 +169,6 @@ into *a Suborbital
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T000000">2022-07-17 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Firefly Alpha | Flight Two</b> from Vandenberg SFB, CA, USA to LEO.</td>
-</tr>
 
 </tbody>
 </table></p>
@@ -176,15 +176,15 @@ into *a Suborbital
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://www.teslarati.com/spacex-july-2022-starlink-launch-plans/" >🔗</a> **[Teslarati]** SpaceX eyes several Starlink launches in July
-- <a href="https://www.nasaspaceflight.com/2022/07/lucy-solar-array-before-flyby/" >🔗</a> **[NASA Spaceflight]** Lucy continues to stabilize its solar array before its October flyby
-- <a href="https://www.teslarati.com/spacex-starship-super-heavy-39-raptors-installed/" >🔗</a> **[Teslarati]** SpaceX outfits Starship, Super Heavy with dozens of Raptor engines
-- <a href="https://spacenews.com/new-zealand-joins-asat-testing-ban/" >🔗</a> **[SpaceNews]** New Zealand joins ASAT testing ban
-- <a href="https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-discussions/" >🔗</a> **[SpaceNews]** NASA and Roscosmos continue seat barter discussions
+- <a href="https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/" >🔗</a> **[Teslarati]** Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters
+- <a href="https://spacenews.com/capstone-suffers-communications-problem/" >🔗</a> **[SpaceNews]** CAPSTONE suffers communications problem
+- <a href="https://spacenews.com/northrop-grumman-selects-airbus-to-supply-satellite-buses-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Northrop Grumman selects Airbus to supply satellite buses for U.S. military constellation
+- <a href="https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/" >🔗</a> **[Arstechnica]** Russian astronauts use space station to promote anti-Ukraine propaganda
+- <a href="https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/" >🔗</a> **[SpaceNews]** Kongsberg to acquire majority stake in NanoAvionics
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220704T052411">2022-07-04 05:24:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T052312">2022-07-06 05:23:12 UTC</a>
   <br>
 </div>
