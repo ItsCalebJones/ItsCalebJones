@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Black Brant IX | SISTINE**. It is scheduled to be launched by *Equatorial Launch Australia*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a>, Arnhem Space Centre*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T105400">2022-07-06 10:54:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 1 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
-*Astrophysics* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+**Falcon 9 Block 5 | Starlink Group 3-1**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T010000">2022-07-11 01:00:00 UTC</a>.  Until
+then, this pad will have been used for 92
+out of 698 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  The Suborbital Imaging Spectrograph for Transition region Irradiance from Nearby Exoplanet host stars (SISTINE) is a payload from the University of Colorado. Its objective is to study how light from stars affects the atmospheres of the planets around them, including the gases thought to be signs of life. For this flight, it will measure the ultraviolet light output from α Centauri A and B, two stars of the three-star α Centauri system that are the closest stars to our Sun.
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Black_Brant_(rocket)#Black_Brant_IX" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090612.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=-12.3892948,136.7903215" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_arnhem_space_centre_20220622160552.jpg"  />
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
@@ -120,23 +120,8 @@ into *a Suborbital
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T105400">2022-07-06 10:54:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg"/> <b>Black Brant IX | SISTINE</b> from Arnhem Space Centre to Sub.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T080000">2022-07-07 08:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1b/Fregat | Glonass-K1</b> from Plesetsk Cosmodrome, Russian Federation.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220707T130000">2022-07-07 13:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T010000">2022-07-11 01:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-21</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T000000">2022-07-11 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-1</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
@@ -160,14 +145,29 @@ into *a Suborbital
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-25</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220714T000000">2022-07-14 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-2</b> from Vandenberg SFB, CA, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T003000">2022-07-15 00:30:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T004400">2022-07-15 00:44:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T000000">2022-07-22 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T000000">2022-07-23 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 5B | Wentian</b> from Wenchang Satellite Launch Center, People's Republic of China to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg"/> <b>Epsilon | RAISE-3 & Others</b> from Uchinoura Space Center, Japan.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Terran 1 | Maiden Flight</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
 
 </tbody>
@@ -176,15 +176,15 @@ into *a Suborbital
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://www.teslarati.com/teslas-solar-range-extender-with-starlink-prototype-could-save-lives-during-disasters/" >🔗</a> **[Teslarati]** Tesla’s Solar Range Extender with Starlink prototype could save lives during disasters
-- <a href="https://spacenews.com/capstone-suffers-communications-problem/" >🔗</a> **[SpaceNews]** CAPSTONE suffers communications problem
-- <a href="https://spacenews.com/northrop-grumman-selects-airbus-to-supply-satellite-buses-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Northrop Grumman selects Airbus to supply satellite buses for U.S. military constellation
-- <a href="https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/" >🔗</a> **[Arstechnica]** Russian astronauts use space station to promote anti-Ukraine propaganda
-- <a href="https://spacenews.com/kongsberg-to-acquire-majority-stake-in-nanoavionics/" >🔗</a> **[SpaceNews]** Kongsberg to acquire majority stake in NanoAvionics
+- <a href="https://www.teslarati.com/starlink-maritime/" >🔗</a> **[Teslarati]** Starlink Maritime is now available for ocean-going vessels.
+- <a href="https://spacenews.com/space-force-coming-to-grips-with-cybersecurity-threats/" >🔗</a> **[SpaceNews]** Space Force coming to grips with cybersecurity threats
+- <a href="https://arstechnica.com/science/2022/07/russian-astronauts-use-space-station-to-promote-anti-ukraine-propaganda/" >🔗</a> **[Arstechnica]** NASA rebukes Russian use of space station for propaganda purposes [Updated]
+- <a href="https://spacenews.com/esa-studies-options-for-vega-c-upper-stage-engine-ahead-of-first-launch/" >🔗</a> **[SpaceNews]** ESA studies options for Vega C upper stage engine ahead of first launch
+- <a href="https://spacenews.com/dish-says-spacexs-starlink-5g-interference-study-is-flawed/" >🔗</a> **[SpaceNews]** Dish says SpaceX’s Starlink 5G interference study is flawed
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220706T052312">2022-07-06 05:23:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220708T051925">2022-07-08 05:19:25 UTC</a>
   <br>
 </div>
