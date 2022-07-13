@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Black Brant IX | DEUCE**. It is scheduled to be launched by *Equatorial Launch Australia*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Arnhem_Land#Economy">Suborbital Launch Ramp</a>, Arnhem Space Centre*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T105700">2022-07-11 10:57:00 UTC</a>.  Until
-then, this pad will have been used for 2
-out of 2 launches from this location. The launch status is currently
+**Electron | Wise One Looks Ahead (NROL-162)**. It is scheduled to be launched by *Rocket Lab Ltd*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T050000">2022-07-13 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 25
+out of 27 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Astrophysics* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  The Dual-channel Extreme Ultraviolet Continuum Experiment (DEUCE) is a payload from the University of Colorado. its objective is to observe α Centauri A & B and measure a so-far unstudied part of their extreme ultraviolet light spectrum. These measurements are needed to model stars similar to and smaller than our Sun, as well as understand their effects on planetary atmospheres.
+  Classified payload for the US National Reconnaissance Office (NRO).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Black_Brant_(rocket)#Black_Brant_IX" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
   </a>
-  <a href="http://maps.google.com/maps?q=-12.3892948,136.7903215" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_arnhem_space_centre_20220622160552.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
@@ -120,21 +120,6 @@ into *a Suborbital
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T105700">2022-07-11 10:57:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg"/> <b>Black Brant IX | DEUCE</b> from Arnhem Space Centre to Sub.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T161900">2022-07-12 16:19:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 3B/E | Tianlian 2-03</b> from Xichang Satellite Launch Center, People's Republic of China to GSO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T050000">2022-07-13 05:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Wise One Looks Ahead (NROL-162)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T111300">2022-07-13 11:13:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg"/> <b>Vega-C | LARES-2 (Maiden flight)</b> from Kourou, French Guiana to MEO.</td>
@@ -145,18 +130,18 @@ into *a Suborbital
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Dragon CRS-2 SpX-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T000000">2022-07-17 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T142000">2022-07-17 14:20:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-22</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T000000">2022-07-22 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T000000">2022-07-23 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061200">2022-07-24 06:12:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 5B | Wentian</b> from Wenchang Satellite Launch Center, People's Republic of China to LEO.</td>
 </tr>
 <tr>
@@ -169,6 +154,16 @@ into *a Suborbital
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Terran 1 | Maiden Flight</b> from Cape Canaveral, FL, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Astra Rocket 3 | TROPICS-3</b> from Cape Canaveral, FL, USA to LEO.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -176,15 +171,15 @@ into *a Suborbital
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spaceflightnow.com/2022/07/10/astronomers-eagerly-await-first-images-from-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** Astronomers eagerly await first images from the James Webb Space Telescope
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-3-1/" >🔗</a> **[NASA Spaceflight]** SpaceX launches first mission to third shell of Starlink constellation
-- <a href="https://www.teslarati.com/spacex-starlink-launch-new-polar-shell/" >🔗</a> **[Teslarati]** SpaceX begins launching new shell of polar Starlink satellites
-- <a href="https://www.teslarati.com/elon-musk-detailed-tour-spacex-raptor-2/" >🔗</a> **[Teslarati]** Elon Musk & Everyday Astronaut share detailed tour of SpaceX Raptor 2 engine
-- <a href="https://spacenews.com/northrop-grumman-gets-22-million-space-force-contract-to-build-small-satellite-carrier-bus/" >🔗</a> **[SpaceNews]** Northrop Grumman gets $22 million Space Force contract to build small-satellite carrier bus
+- <a href="https://spacenews.com/first-jwst-images-excite-and-relieve-astronomers/" >🔗</a> **[SpaceNews]** First JWST images excite and relieve astronomers
+- <a href="https://www.nasaspaceflight.com/2022/07/rocket-lab-wise-one-looks-ahead/" >🔗</a> **[NASA Spaceflight]** Rocket Lab to launch first of two back-to-back missions for NRO
+- <a href="https://spaceflightnow.com/2022/07/12/jwst-teases-new-era-in-exoplanet-research/" >🔗</a> **[Spaceflight Now]** JWST teases new era in exoplanet astronomy
+- <a href="https://spacenews.com/oneweb-backs-up-starlink-5g-interference-warning/" >🔗</a> **[SpaceNews]** OneWeb backs up Starlink 5G interference warning
+- <a href="https://spaceflightnow.com/2022/07/12/a-dying-star-through-the-eyes-of-the-james-webb-space-telescope/" >🔗</a> **[Spaceflight Now]** A dying star through the eyes of the James Webb Space Telescope
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220711T052011">2022-07-11 05:20:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220713T051639">2022-07-13 05:16:39 UTC</a>
   <br>
 </div>
