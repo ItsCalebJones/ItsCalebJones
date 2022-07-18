@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="">Launch Complex 9</a>, Taiyuan, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T224300">2022-07-15 22:43:00 UTC</a>.  Until
-then, this pad will have been used for 34
-out of 108 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+**Falcon 9 Block 5 | Starlink Group 3-2**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T171300">2022-07-21 17:13:00 UTC</a>.  Until
+then, this pad will have been used for 93
+out of 699 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown Payload
+  A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090423.png" />
   </a>
-  <a href="http://maps.google.com/maps?q=38.849+N,+111.608+E" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg"  />
+  <a href="http://maps.google.com/maps?q=34.632+N,+120.611+W" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg"  />
   </a>
 </p>
 
@@ -120,29 +120,14 @@ into *an Unknown Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T224300">2022-07-15 22:43:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2C | Unknown Payload</b> from Taiyuan, People's Republic of China to -.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220717T145000">2022-07-17 14:50:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-22</b> from Cape Canaveral, FL, USA to LEO.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T171300">2022-07-21 17:13:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-2</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220723T000000">2022-07-23 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T211500">2022-07-21 21:15:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T000000">2022-07-24 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061200">2022-07-24 06:12:00 UTC</a>]</td>
@@ -150,14 +135,9 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 5B | Wentian</b> from Wenchang Satellite Launch Center, People's Republic of China to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg"/> <b>Epsilon | RAISE-3 & Others</b> from Uchinoura Space Center, Japan.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>SSLV | EOS-02 (Microsat-2A) (Demo 1)</b> from Sriharikota, Republic of India to LEO.</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T120000">2022-07-24 12:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
@@ -165,9 +145,24 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T000000">2022-08-01 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T000000">2022-08-02 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Delta IV Heavy | NROL-91</b> from Vandenberg SFB, CA, USA to N/A.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>SSLV | EOS-02 (Microsat-2A) (Demo 1)</b> from Sriharikota, Republic of India to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T233700">2022-08-02 23:37:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | KPLO (Korean Pathfinder Lunar Orbiter)</b> from Cape Canaveral, FL, USA to Elliptical.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T000000">2022-08-04 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 421 | SBIRS GEO-6</b> from Cape Canaveral, FL, USA to GTO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T000000">2022-08-09 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg"/> <b>Soyuz 2.1a/Fregat-M | Meteor-M No.2-4</b> from Vostochny Cosmodrome, Siberia, Russian Federation.</td>
 </tr>
 
 </tbody>
@@ -176,15 +171,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/georgia-approves-starlink-services-in-eastern-europe/" >🔗</a> **[SpaceNews]** Georgia approves Starlink services in Eastern Europe
-- <a href="https://spacenews.com/a-common-ground-system-for-military-satellites-is-proving-to-be-harder-than-envisioned/" >🔗</a> **[SpaceNews]** A common ground system for military satellites is proving to be harder than envisioned
-- <a href="https://spacenews.com/nasa-division-proposing-program-to-send-scientists-to-iss/" >🔗</a> **[SpaceNews]** NASA division proposing program to send scientists to ISS
-- <a href="https://spacenews.com/noaa-cwdp-space-weather/" >🔗</a> **[SpaceNews]** GeoOptics, PlanetIQ and Spire to supply NOAA with space weather data
-- <a href="https://spaceflightnow.com/2022/07/14/spacex-ready-to-launch-space-station-resupply-mission-after-five-week-delay/" >🔗</a> **[Spaceflight Now]** SpaceX ready to launch space station resupply mission after five-week delay
+- <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
+- <a href="https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year
+- <a href="https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/" >🔗</a> **[Teslarati]** SpaceX ties annual launch record seven months into 2022
+- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation reaches 1,000 satellites
+- <a href="https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/" >🔗</a> **[Teslarati]** Return To Space documentary nominated for an Emmy
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220715T053753">2022-07-15 05:37:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T052556">2022-07-18 05:25:56 UTC</a>
   <br>
 </div>
