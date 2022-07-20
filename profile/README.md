@@ -125,17 +125,12 @@ into *a Low Earth Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-2</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T211500">2022-07-21 21:15:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T061200">2022-07-24 06:12:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 5B | Wentian</b> from Wenchang Satellite Launch Center, People's Republic of China to LEO.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T120000">2022-07-24 12:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220724T121900">2022-07-24 12:19:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-25</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
@@ -143,6 +138,11 @@ into *a Low Earth Orbit
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T000000">2022-08-02 00:00:00 UTC</a>]</td>
@@ -171,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/firefly-gears-up-for-second-alpha-launch/" >🔗</a> **[SpaceNews]** Firefly gears up for second Alpha launch
-- <a href="https://spaceflightnow.com/2022/07/17/spacex-deploys-53-more-starlink-satellites-on-record-tying-31st-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** SpaceX deploys 53 more Starlink satellites on record-tying 31st launch of the year
-- <a href="https://www.teslarati.com/spacex-ties-annual-launch-record-seven-months/" >🔗</a> **[Teslarati]** SpaceX ties annual launch record seven months into 2022
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-22-launch/" >🔗</a> **[NASA Spaceflight]** Fourth shell of Starlink constellation reaches 1,000 satellites
-- <a href="https://www.teslarati.com/return-to-space-documentary-nominated-for-an-emmy/" >🔗</a> **[Teslarati]** Return To Space documentary nominated for an Emmy
+- <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Roman Space Telescope
+- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope
+- <a href="http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station
+- <a href="https://spacenews.com/oss-sstl-wrapped-rib/" >🔗</a> **[SpaceNews]** Oxford Space and SSTL unveil Wrapped Rib SAR antenna
+- <a href="https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/" >🔗</a> **[SpaceNews]** ESA funds Skimsat demonstrator study for VLEO
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220718T052556">2022-07-18 05:25:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T051959">2022-07-20 05:19:59 UTC</a>
   <br>
 </div>
