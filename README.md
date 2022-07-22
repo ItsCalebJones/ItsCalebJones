@@ -87,10 +87,10 @@ The next space launch, retrieved from The Space Devs
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T171300">2022-07-21 17:13:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T173900">2022-07-22 17:39:00 UTC</a>.  Until
 then, this pad will have been used for 93
 out of 699 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -120,8 +120,8 @@ into *a Low Earth Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220721T171300">2022-07-21 17:13:00 UTC</a>]</td>
-    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T173900">2022-07-22 17:39:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 3-2</b> from Vandenberg SFB, CA, USA to LEO.</td>
 </tr>
 <tr>
@@ -171,15 +171,15 @@ into *a Low Earth Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/nasa-selects-falcon-heavy-to-launch-roman-space-telescope/" >🔗</a> **[SpaceNews]** NASA selects Falcon Heavy to launch Roman Space Telescope
-- <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-roman-space-telescope/" >🔗</a> **[Teslarati]** SpaceX Falcon Heavy rocket to launch NASA’s Roman Space Telescope
-- <a href="http://www.nasa.gov/press-release/boston-students-to-hear-from-nasa-esa-astronauts-aboard-space-station" >🔗</a> **[NASA]** Boston Students to Hear from NASA, ESA Astronauts Aboard Space Station
-- <a href="https://spacenews.com/oss-sstl-wrapped-rib/" >🔗</a> **[SpaceNews]** Oxford Space and SSTL unveil Wrapped Rib SAR antenna
-- <a href="https://spacenews.com/esa-funds-skimsat-demonstrator-study-for-vleo/" >🔗</a> **[SpaceNews]** ESA funds Skimsat demonstrator study for VLEO
+- <a href="https://spaceflightnow.com/2022/07/21/russian-esa-iss-eva/" >🔗</a> **[Spaceflight Now]** Russian cosmonaut, European astronaut complete joint spacewalk
+- <a href="https://spaceflightnow.com/2022/07/21/spacex-calls-rare-last-minute-abort-during-california-launch-countdown/" >🔗</a> **[Spaceflight Now]** SpaceX calls rare last-minute abort during California launch countdown
+- <a href="https://spacenews.com/crew-dragon-mission-delayed-after-booster-damaged-in-transport/" >🔗</a> **[SpaceNews]** Crew Dragon mission delayed after booster damaged in transport
+- <a href="http://www.nasa.gov/press-release/nasa-to-host-media-activities-in-houston-ahead-of-lunar-mission" >🔗</a> **[NASA]** NASA to Host Media Activities in Houston Ahead of Lunar Mission
+- <a href="https://spaceflightnow.com/2022/07/21/sls-flight-support-booster-2/" >🔗</a> **[Spaceflight Now]** SLS moon rocket booster test-fired in Utah
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220720T051959">2022-07-20 05:19:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220722T052150">2022-07-22 05:21:50 UTC</a>
   <br>
 </div>
