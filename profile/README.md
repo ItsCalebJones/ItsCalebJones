@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Zhuque-2 | Maiden Flight**. It is scheduled to be launched by *LandSpace*
+**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="">Unknown Pad</a>, Jiuquan, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>.  Until
-then, this pad will have been used for 30
-out of 167 launches from this location. The launch status is currently
-*TBD* 🟧 . The mission type is
-*Test Flight* and the payload will be injected
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T131600">2022-07-29 13:16:00 UTC</a>.  Until
+then, this pad will have been used for 62
+out of 172 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Unknown* and the payload will be injected
 into *an Unknown Orbit
 (-)*.
 <br>
 <blockquote>
-  First flight of the new methalox rocket developed by Chinese startup LandSpace.
+  Unknown Payload
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg" />
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
   </a>
-  <a href="" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg"  />
+  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
   </a>
 </p>
 
@@ -120,9 +120,14 @@ into *an Unknown Orbit
     </thead>
     <tbody>
 <tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T131600">2022-07-29 13:16:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Xichang Satellite Launch Center, People's Republic of China to -.</td>
+</tr>
+<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China to -.</td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
@@ -161,15 +166,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/second-module-docks-at-chinas-space-station-large-rocket-stage-tracked-in-orbit/" >🔗</a> **[SpaceNews]** Second module docks at China’s space station, large rocket stage tracked in orbit
-- <a href="https://spacenews.com/roman-space-telescope-top-challenge-for-new-nasa-astrophysics-director/" >🔗</a> **[SpaceNews]** Roman Space Telescope top challenge for new NASA astrophysics director
-- <a href="https://www.teslarati.com/spacex-falcon-9-over-moon/" >🔗</a> **[Teslarati]** Video: SpaceX Falcon 9 over the moon
-- <a href="https://www.nasaspaceflight.com/2022/07/starlink-4-25/" >🔗</a> **[NASA Spaceflight]** SpaceX continues Starlink deployment with Starlink 4-25 mission
-- <a href="https://spaceflightnow.com/2022/07/24/long-march-5b-wentian-launch/" >🔗</a> **[Spaceflight Now]** New science lab for China’s space station launches on Long March 5B rocket
+- <a href="https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/" >🔗</a> **[SpaceNews]** ESA selects Viasat for multi-orbit satellite communications study
+- <a href="https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/" >🔗</a> **[SpaceNews]** Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices
+- <a href="http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract" >🔗</a> **[NASA]** NASA Prepares for Space Launch System Rocket Services Contract
+- <a href="https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/" >🔗</a> **[SpaceNews]** Massive Long March 5B booster predicted to reenter on July 31
+- <a href="https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat" >🔗</a> **[euronews]** Russia says it will quit the International Space Station after 2024 and build its own
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220725T052331">2022-07-25 05:23:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T052833">2022-07-27 05:28:33 UTC</a>
   <br>
 </div>
