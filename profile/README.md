@@ -125,27 +125,22 @@ into *an Unknown Orbit
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Xichang Satellite Launch Center, People's Republic of China to -.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Zhuque-2 | Maiden Flight</b> from Jiuquan, People's Republic of China.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220731T000000">2022-07-31 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T050000">2022-08-02 05:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T233700">2022-08-02 23:37:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T102900">2022-08-04 10:29:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 421 | SBIRS GEO-6</b> from Cape Canaveral, FL, USA to GTO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>]</td>
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | KPLO (Korean Pathfinder Lunar Orbiter)</b> from Cape Canaveral, FL, USA to Elliptical.</td>
 </tr>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T000000">2022-08-04 00:00:00 UTC</a>]</td>
-    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 421 | SBIRS GEO-6</b> from Cape Canaveral, FL, USA to GTO.</td>
-</tr>
-<tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T000000">2022-08-04 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220807T000000">2022-08-07 00:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg"/> <b>SSLV | EOS-02 (Microsat-2A) (Demo 1)</b> from Sriharikota, Republic of India to LEO.</td>
 </tr>
@@ -166,15 +161,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="https://spacenews.com/esa-selects-viasat-for-multi-orbit-satellite-communication-study/" >🔗</a> **[SpaceNews]** ESA selects Viasat for multi-orbit satellite communications study
-- <a href="https://spacenews.com/startup-wallaroo-labs-wins-space-force-contract-to-model-performance-of-ai-on-edge-devices/" >🔗</a> **[SpaceNews]** Startup Wallaroo Labs wins Space Force contract to model performance of AI on edge devices
-- <a href="http://www.nasa.gov/press-release/nasa-prepares-for-space-launch-system-rocket-services-contract" >🔗</a> **[NASA]** NASA Prepares for Space Launch System Rocket Services Contract
-- <a href="https://spacenews.com/massive-long-march-5b-booster-predicted-to-reenter-on-july-31/" >🔗</a> **[SpaceNews]** Massive Long March 5B booster predicted to reenter on July 31
-- <a href="https://www.euronews.com/next/2022/07/26/russia-says-it-will-quit-the-international-space-station-after-2024-and-build-its-own-stat" >🔗</a> **[euronews]** Russia says it will quit the International Space Station after 2024 and build its own
+- <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill" >🔗</a> **[NASA]** NASA Administrator Statement on Agency Authorization Bill
+- <a href="https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/" >🔗</a> **[NASA Spaceflight]** Awaiting Static Fire as SpaceX sets up Starship’s test campaign
+- <a href="https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/" >🔗</a> **[SpaceNews]** Senate appropriators boost military space programs in proposed 2023 spending bill
+- <a href="https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/" >🔗</a> **[SpaceNews]** Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged
+- <a href="http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html" >🔗</a> **[NASA]** SOAR High School Student Wins NASA Armstrong Scholarship
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220727T052833">2022-07-27 05:28:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T052428">2022-07-29 05:24:28 UTC</a>
   <br>
 </div>
