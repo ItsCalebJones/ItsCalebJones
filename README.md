@@ -83,28 +83,28 @@ The Space Devs is a group of space enthusiast developers working on a range of s
 #### Next Launch ⌛
 The next space launch, retrieved from The Space Devs
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 ( LC-3 ) ( LA-1 )</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T131600">2022-07-29 13:16:00 UTC</a>.  Until
-then, this pad will have been used for 62
-out of 172 launches from this location. The launch status is currently
+**Electron | Antipodean Adventure (NROL-199)**. It is scheduled to be launched by *Rocket Lab Ltd*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Onenui Station, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T050000">2022-08-02 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 2
+out of 28 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown Orbit
-(-)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Unknown Payload
+  Classified payload for the US National Reconnaissance Office (NRO).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
-    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg" />
+  <a href="https://en.wikipedia.org/wiki/Electron_\(rocket\)" >
+    <img alt="launch-image" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg" />
   </a>
-  <a href="https://www.google.com/maps/?q=28.246017,102.026556" >
-    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg"  />
+  <a href="https://www.google.com/maps/place/-39.262833,177.864469" >
+    <img alt="pad-location" height="200" src="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg"  />
   </a>
 </p>
 
@@ -120,11 +120,6 @@ into *an Unknown Orbit
     </thead>
     <tbody>
 <tr>
-    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T131600">2022-07-29 13:16:00 UTC</a>]</td>
-    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
-    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg"/> <b>Long March 2D | Unknown Payload</b> from Xichang Satellite Launch Center, People's Republic of China to -.</td>
-</tr>
-<tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T050000">2022-08-02 05:00:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg"/> <b>Electron | Antipodean Adventure (NROL-199)</b> from Onenui Station, Mahia Peninsula, New Zealand to N/A.</td>
@@ -133,6 +128,11 @@ into *an Unknown Orbit
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T102900">2022-08-04 10:29:00 UTC</a>]</td>
     <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Atlas V 421 | SBIRS GEO-6</b> from Cape Canaveral, FL, USA to GTO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T133000">2022-08-04 13:30:00 UTC</a>]</td>
+    <td class="tg-0pky">🟩  <b>Go for Launch</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>New Shepard | NS-22</b> from Corn Ranch, USA to Sub.</td>
 </tr>
 <tr>
     <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220804T230800">2022-08-04 23:08:00 UTC</a>]</td>
@@ -154,6 +154,21 @@ into *an Unknown Orbit
     <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
     <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>Falcon 9 Block 5 | Starlink Group 4-26</b> from Kennedy Space Center, FL, USA to LEO.</td>
 </tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220829T123300">2022-08-29 12:33:00 UTC</a>]</td>
+    <td class="tg-0pky">🟨  <b>To Be Confirmed</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>SLS Block 1 | Artemis-1</b> from Kennedy Space Center, FL, USA to LO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg"/> <b>RS1 | Maiden Flight</b> from Pacific Spaceport Complex, Alaska, USA to LEO.</td>
+</tr>
+<tr>
+    <td class="tg-0pky">[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220831T000000">2022-08-31 00:00:00 UTC</a>]</td>
+    <td class="tg-0pky">🟧  <b>To Be Determined</b></td>
+    <td class="tg-0pky"><img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg"/> <b>Epsilon | RAISE-3 & Others</b> from Uchinoura Space Center, Japan.</td>
+</tr>
 
 </tbody>
 </table></p>
@@ -161,15 +176,15 @@ into *an Unknown Orbit
 ### Spaceflight News API 📰
 
 #### Latest News ⌛
-- <a href="http://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-authorization-bill" >🔗</a> **[NASA]** NASA Administrator Statement on Agency Authorization Bill
-- <a href="https://www.nasaspaceflight.com/2022/07/starship-24-awaiting-static-fires/" >🔗</a> **[NASA Spaceflight]** Awaiting Static Fire as SpaceX sets up Starship’s test campaign
-- <a href="https://spacenews.com/senate-appropriators-boost-military-space-programs-in-proposed-2023-spending-bill/" >🔗</a> **[SpaceNews]** Senate appropriators boost military space programs in proposed 2023 spending bill
-- <a href="https://spacenews.com/northrop-grumman-dismisses-speculation-that-its-2018-acquisition-of-orbital-atk-could-be-challenged/" >🔗</a> **[SpaceNews]** Northrop Grumman dismisses speculation that its 2018 acquisition of Orbital ATK could be challenged
-- <a href="http://www.nasa.gov/centers/armstrong/news/newsreleases/2022/22-04NR.html" >🔗</a> **[NASA]** SOAR High School Student Wins NASA Armstrong Scholarship
+- <a href="https://spacenews.com/roscosmos-head-revises-comments-about-quitting-iss-after-2024/" >🔗</a> **[SpaceNews]** Roscosmos head revises comments about quitting ISS after 2024
+- <a href="https://spacenews.com/house-appropriator-discusses-space-priorities/" >🔗</a> **[SpaceNews]** House appropriator discusses space priorities
+- <a href="https://spacenews.com/nasa-companies-reject-concerns-over-commercial-space-station-development-schedules/" >🔗</a> **[SpaceNews]** NASA, companies reject concerns over commercial space station development schedules
+- <a href="https://www.nasaspaceflight.com/2022/07/nasa-esa-msr-architecture/" >🔗</a> **[NASA Spaceflight]** NASA, ESA unveil advanced architecture for Mars Sample Return
+- <a href="https://spacenews.com/esa-scaling-back-design-of-x-ray-astronomy-mission/" >🔗</a> **[SpaceNews]** ESA scaling back design of X-ray astronomy mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220729T052428">2022-07-29 05:24:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220801T054853">2022-08-01 05:48:53 UTC</a>
   <br>
 </div>
